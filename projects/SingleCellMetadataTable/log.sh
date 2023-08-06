@@ -41,3 +41,9 @@ done
 conda activate EngreitzLab
 Rscript organizeClusterMetadata.R
 
+##############
+## Upload final files to Synapse
+conda activate synapsetools
+synapse store --id syn52252340 --name Y2AVE_SingleCellDatasets.fileList.tsv --description "List of processed single-cell data files for Y2AVE datasets. One row per file." Y2AVE_SingleCellDatasets.fileList.tsv
+synapse store --id syn52252344 --name Y2AVE_SingleCellDatasets.datasetList.tsv --description "List of processed single-cell Y2AVE datasets and associated metadata (including contacts, data provenance, etc.). One row per dataset. Merge with Y2AVE_SingleCellDatasets.fileList.tsv as needed to find files corresponding to each dataset." Y2AVE_SingleCellDatasets.datasetList.tsv
+synapse store --id syn52252345 --name Y2AVE_SingleCellDatasets.CellClusterTable.tsv --description "List of cell clusters across all single-cell Y2AVE datasets, one row per cell cluster.\n\nCurrently this includes only datasets with ATAC-seq, but eventually will be edited to include datasets with only scRNA once those data are available. Merge this table with Y2AVE_SingleCellDatasets.datasetList.tsv to get metadata about the datasets corresponding to each file, and with fileList.tsv to get metdata corresponding to the tagAlign files" Y2AVE_SingleCellDatasets.CellClusterTable.tsv
