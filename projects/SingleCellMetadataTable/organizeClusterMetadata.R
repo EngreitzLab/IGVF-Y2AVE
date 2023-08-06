@@ -79,12 +79,15 @@ readClusterMetadataTable <- function(file, datasetID) {
 
 clusterData <- do.call(rbind, mapply(readClusterMetadataTable, clusterFiles$FileDownloadName, clusterFiles$DatasetID, SIMPLIFY=FALSE))
 rownames(clusterData) <- NULL
+stopifnot(all(!duplicated(clusterData$CellClusterID)))
 
-write.table(clusterData, file="Y2AVE_SingleCellDatasets.CellClusterTableRaw.tsv")
+write.table(clusterData, file="Y2AVE_SingleCellDatasets.CellClusterTableRaw.tsv", sep='\t', quote=F, col.names=T, row.names=F)
 
 
+#####################################
 ## Now make edits to the ManualAnnotationLabel column
 #clusterDataRelabeled <- clusterData
 #new_str <- gsub('[^[:alnum:] ]','',address_str)
 
-write.table(clusterData, file="Y2AVE_SingleCellDatasets.CellClusterTable.tsv")
+stopifnot(all(!duplicated(clusterData$CellClusterID)))
+write.table(clusterData, file="Y2AVE_SingleCellDatasets.CellClusterTable.tsv", sep='\t', quote=F, col.names=T, row.names=F)
