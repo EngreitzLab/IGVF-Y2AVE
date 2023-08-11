@@ -1,0 +1,9 @@
+name: bedops
+channels:
+  - bioconda
+dependencies:
+  - csvtk=0.23.0
+  - bedops
+  - synapseclient=2.7.2
+
+
