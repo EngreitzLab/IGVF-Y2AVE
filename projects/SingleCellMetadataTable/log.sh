@@ -1,12 +1,13 @@
-conda activate synapsetools
+conda activate bedops   ## includes synapse client
 
 ## Curated Y2AVE_SingleCellDatasets.metadata.txt from Google Spreadsheet: https://docs.google.com/spreadsheets/d/1QWa1JUzs7pR02P8uS95MWIqW8-Ldh7BX6D990YXXQbQ/edit#gid=0
+dos2unix Y2AVE_SingleCellDatasets.metadata.txt; dos2unix -c mac Y2AVE_SingleCellDatasets.metadata.txt
 
 ## Get list of all files in the Y2AVE/FilteredData Synapse folder
 synapse list -r syn52167911 | tr -s ' ' '\t' > FilteredDataContents.tsv
 
 ## Get list of aligned data files from the Processed Data File View Table
-synapse get -q "SELECT * FROM syn52132754"
+synapse query "SELECT * FROM syn52132754" > Y2AVE_SingleCellDatasets.allFileTableDump.tsv
 
 ## Make list of unique datasets
 {

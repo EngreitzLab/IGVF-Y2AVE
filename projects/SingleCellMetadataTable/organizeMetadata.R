@@ -29,12 +29,12 @@ datasetTable <- datasets %>%
         FASTQSynID,
         Publication,
         JamboreeTeam
-        ))
+        )
 
 stopifnot(nrow(datasets) == nrow(datasetTable))
 
 ## Adjust this file name based on the query name
-allFileList <- read.delim("SYNAPSE_TABLE_QUERY_127648913.csv", sep=',', stringsAsFactors=F)
+allFileList <- read.delim("Y2AVE_SingleCellDatasets.allFileTableDump.tsv", stringsAsFactors=F)
 
 ########################################################
 ## Process and organize the filtered data / pseudobulk file list
@@ -53,10 +53,14 @@ fileList <- fileList %>%
     mutate(fileType=
         ifelse(grepl("ClusterAssignment.tsv",FileSynapseName), "cluster assignment table",
         ifelse(grepl("ClusterMetadata.tsv",FileSynapseName),   "cluster metadata table",
-        ifelse(grepl("sorted.tagAlign.gz.tbi",FileSynapseName),"cluster pseudobulk ATAC sorted tagAlign Tabix index",
-        ifelse(grepl("sorted.tagAlign.gz",FileSynapseName),    "cluster pseudobulk ATAC sorted tagAlign",
+        ifelse(grepl("sorted.tagAlign.gz.tbi$",FileSynapseName),"cluster pseudobulk ATAC sorted tagAlign Tabix index",
+        ifelse(grepl("sorted.tagAlign.gz$",FileSynapseName),    "cluster pseudobulk ATAC sorted tagAlign",
+        ifelse(grepl("Cluster.*.atac.filter.fragments.hg38.tsv.gz.tbi",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign Tabix index",
+        ifelse(grepl("Cluster.*.atac.filter.fragments.hg38.tsv.gz",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign",                     
         ifelse(grepl("tagAlign",FileSynapseName),              "cluster pseudobulk ATAC unsorted tagAlign",
-            "Unrecognized"))))))
+        ifelse(grepl(".combinedFiltered.hg38.rna.h5",FileSynapseName), "gene expression matrix .h5 combined and filtered",
+        ifelse(grepl(".CPM.tsv.gz",FileSynapseName),           "cluster gene expression counts per million",
+            "Unrecognized"))))))))))
 
 ## Check if any files are labeled unrecognized — if so, update the logic above
 fileList %>% filter(fileType=="Unrecognized")
