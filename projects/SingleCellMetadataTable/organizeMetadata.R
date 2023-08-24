@@ -8,6 +8,8 @@ library(dplyr)
 datasets <- read.delim("Y2AVE_SingleCellDatasets.tsv", stringsAsFactors=F)
 datasetsMetadata <- read.delim("Y2AVE_SingleCellDatasets.metadata.txt", stringsAsFactors=F)
 
+setdiff(datasets$DatasetID, datasetsMetadata$DatasetID)
+
 datasetTable <- datasets %>%
     rename(FilteredDataSynID=synID) %>%
     merge(datasetsMetadata, by="DatasetID") %>%
@@ -33,7 +35,7 @@ datasetTable <- datasets %>%
 
 stopifnot(nrow(datasets) == nrow(datasetTable))
 
-## Adjust this file name based on the query name
+## Update this file on drive by re-pulling from Synapse, then load it in here:
 allFileList <- read.delim("Y2AVE_SingleCellDatasets.allFileTableDump.tsv", stringsAsFactors=F)
 
 ########################################################
@@ -55,17 +57,28 @@ fileList <- fileList %>%
         ifelse(grepl("ClusterMetadata.tsv",FileSynapseName),   "cluster metadata table",
         ifelse(grepl("sorted.tagAlign.gz.tbi$",FileSynapseName),"cluster pseudobulk ATAC sorted tagAlign Tabix index",
         ifelse(grepl("sorted.tagAlign.gz$",FileSynapseName),    "cluster pseudobulk ATAC sorted tagAlign",
-        ifelse(grepl("Cluster.*.atac.filter.fragments.hg38.tsv.gz.tbi",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign Tabix index",
-        ifelse(grepl("Cluster.*.atac.filter.fragments.hg38.tsv.gz",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign",                     
+        ifelse(grepl("Cluster.*.atac.filter.fragments.*.tsv.gz.tbi",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign Tabix index",
+        ifelse(grepl("Cluster.*.atac.filter.fragments.*.tsv.gz",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign",                     
+        ifelse(grepl(".atac.filter.cutsites.*.tsv.gz.tbi",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign Tabix index",
+        ifelse(grepl(".atac.filter.cutsites.*.tsv.gz",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign",                     
+        ifelse(grepl(".atac.filter.cutsites.*.tagAlign.gz.tbi",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign Tabix index",
+        ifelse(grepl(".atac.filter.cutsites.*.tagAlign.gz",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign",                     
+        ifelse(grepl("tagAlign_Ma2020_BMMC_SingleDonor_.*tsv.gz.tbi",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign Tabix index",
+        ifelse(grepl("tagAlign_Ma2020_BMMC_SingleDonor_.*tsv.gz",FileSynapseName), "cluster pseudobulk ATAC sorted tagAlign",                     
         ifelse(grepl("tagAlign",FileSynapseName),              "cluster pseudobulk ATAC unsorted tagAlign",
-        ifelse(grepl(".combinedFiltered.hg38.rna.h5",FileSynapseName), "gene expression matrix .h5 combined and filtered",
-        ifelse(grepl(".CPM.tsv.gz",FileSynapseName),           "cluster gene expression counts per million",
-            "Unrecognized"))))))))))
+        ifelse(grepl(".combinedFiltered.*.rna.h5",FileSynapseName), "gene expression matrix .h5 combined and filtered",
+        ifelse(grepl(".CPM.tsv",FileSynapseName),              "cluster gene expression counts per million",
+            "Unrecognized"))))))))))))))))
+
+fileList[fileList$FileDownloadName=="Ma2020_BMMC_SingleDonor_RNA_ClusterMetadata.tsv","fileType"] <- "cluster metadata table alternative"
+fileList[fileList$FileDownloadName=="Ma2020_BMMC_SingleDonor_ATAC_ClusterMetadata.tsv","fileType"] <- "cluster metadata table alternative"
 
 ## Check if any files are labeled unrecognized — if so, update the logic above
 fileList %>% filter(fileType=="Unrecognized")
 stopifnot(!any(duplicated(fileList$FileSynapseName)))
 stopifnot(!any(duplicated(fileList$FileDownloadName)))
+subset(fileList, fileType == "cluster pseudobulk ATAC unsorted tagAlign" & grepl(".tbi",FileSynapseName))
+subset(fileList, fileType == "cluster pseudobulk ATAC unsorted tagAlign")
 
 ## Now merge in the "processed data" files (before cell type clustering / pseudobulking)
 processedDataList <- allFileList
@@ -73,6 +86,7 @@ processedDataList <- allFileList
 ## Output the unique list of subpools and manually make a subpool -> DatasetID table
 write.table(processedDataList %>% pull(subpool) %>% unique(), quote=F, row.names=F, col.names=F, file="SubpoolList.tsv")
 subpoolToData <- read.delim("SubpoolToDataset.tsv", stringsAsFactors=F)
+setdiff(processedDataList$subpool, subpoolToData$subpool)
 
 processedDataList <- processedDataList %>% 
     filter(type=="file") %>%
