@@ -8,6 +8,8 @@ synapse list -r syn52167911 | tr -s ' ' '\t' > FilteredDataContents.tsv
 synapse list -r syn52046639 | tr -s ' ' '\t' >> FilteredDataContents.tsv
 
 ## Get list of aligned data files from the Processed Data File View Table
+## Need to visit this table first and refresh before it's up to date
+## https://www.synapse.org/#!Synapse:syn52132754/tables/
 synapse query "SELECT * FROM syn52132754" > Y2AVE_SingleCellDatasets.allFileTableDump.tsv
 
 ## Make list of unique datasets, renaming from synapse folder name to DatasetID where needed
@@ -18,6 +20,7 @@ synapse query "SELECT * FROM syn52132754" > Y2AVE_SingleCellDatasets.allFileTabl
         grep -v 'ipynb_checkpoints' | 
         grep -v 'try_folder' | 
         grep -v 'GerminalCenter10xATAC_GSM' |
+        grep -v 'backup_' | \
         sed 's/GerminalCenter10xATAC_combined/GerminalCenter10X/' |
         sed 's/ENCODEGM12878/ENCODE_GM12878_10X_scATACseq/' |
         sed 's/ENCODEK562/ENCODE_K562_10X_scATACseq/' |
@@ -35,7 +38,8 @@ synapse query "SELECT * FROM syn52132754" > Y2AVE_SingleCellDatasets.allFileTabl
     echo -e 'DatasetID\tDatasetSynID\tFileSynID\tFile' > Y2AVE_SingleCellDatasets.files.tsv
     sed 1d Y2AVE_SingleCellDatasets.tsv | \
     while read synID DatasetID; do
-	synapse list $synID | tr -s ' ' '\t' | grep -v '/' | awk -v ID=$DatasetID -v syn=$synID '{ print ID "\t" syn "\t" $0 }'
+       >&2 echo $DatasetID
+	   synapse list $synID | tr -s ' ' '\t' | grep -v '/' | awk -v ID=$DatasetID -v syn=$synID '{ print ID "\t" syn "\t" $0 }'
     done >> Y2AVE_SingleCellDatasets.files.tsv
 }
 

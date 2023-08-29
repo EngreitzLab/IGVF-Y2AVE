@@ -7,6 +7,10 @@ library(dplyr)
 
 datasets <- read.delim("Y2AVE_SingleCellDatasets.tsv", stringsAsFactors=F)
 datasetsMetadata <- read.delim("Y2AVE_SingleCellDatasets.metadata.txt", stringsAsFactors=F)
+for (i in colnames(datasetsMetadata))
+    if (is.character(datasetsMetadata[,i]))
+        datasetsMetadata[,i] <- gsub("\n",",",datasetsMetadata[,i])
+
 
 setdiff(datasets$DatasetID, datasetsMetadata$DatasetID)
 
@@ -78,7 +82,7 @@ fileList %>% filter(fileType=="Unrecognized")
 stopifnot(!any(duplicated(fileList$FileSynapseName)))
 stopifnot(!any(duplicated(fileList$FileDownloadName)))
 subset(fileList, fileType == "cluster pseudobulk ATAC unsorted tagAlign" & grepl(".tbi",FileSynapseName))
-subset(fileList, fileType == "cluster pseudobulk ATAC unsorted tagAlign")
+#subset(fileList, fileType == "cluster pseudobulk ATAC unsorted tagAlign")
 
 ## Now merge in the "processed data" files (before cell type clustering / pseudobulking)
 processedDataList <- allFileList

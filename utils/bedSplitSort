@@ -1,0 +1,68 @@
+## Memory efficient `bedtools sort` replacement for when you want your chromosomes 
+##  in a particular order, as with `bedtools sort -g sizes`
+## 
+## If you don't need a particular sort order, then `sort-bed` from bedops is very fast
+##  and memory efficient
+## 
+## Requires bedops.  On Engreitz Lab Sherlock, `conda activate bedops`
+
+#!/bin/bash
+
+USAGE="Usage: $(basename $0) -i input.bed(.gz) -g chromosome_sizes [-t tmp_dir (default: input.bed.split/)]"
+
+INPUT=
+SIZES=
+SPLITDIR=
+
+while getopts ":i:g:t:" opt; do
+  case "$opt" in
+    i)
+      INPUT="$OPTARG"
+      ;;
+    g)
+      SIZES="$OPTARG"
+      ;;
+    t)
+      SPLITDIR="$OPTARG"
+      ;;
+    h)
+      echo $USAGE
+      exit 1
+      ;;
+  esac
+done
+
+if [ -z "$INPUT" ] | [ -z "$SIZES" ]; then
+	echo $INPUT
+	echo $SIZES
+	echo $USAGE
+	exit 1
+fi
+
+if [ -z $SPLITDIR ]; then
+	SPLITDIR=${INPUT}.split/
+fi
+
+
+mkdir $SPLITDIR
+
+
+zcat --force $INPUT | awk -v tmpdir=$SPLITDIR '{ print $0 > tmpdir "/" $1 ".bed" }'
+
+for file in $SPLITDIR/*.bed; do
+	chr=$(basename $file .bed)
+	matchingChr=$(cat $SIZES | grep $chr)
+	if [ -z "$matchingChr" ]; then
+		>&2 echo "Warning: Found entries in BED file for ${chr}, but this chromosome is not in the genome sizes file ($SIZES)" 
+	fi
+done
+
+cat $SIZES | 
+while read chr size; do 
+	if [ -f $SPLITDIR/${chr}.bed ]; then
+		sort-bed $SPLITDIR/${chr}.bed 
+	fi
+done
+
+## Clean up
+rm -r $SPLITDIR

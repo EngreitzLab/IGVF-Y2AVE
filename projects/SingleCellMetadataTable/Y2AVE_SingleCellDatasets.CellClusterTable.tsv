@@ -1,309 +1,310 @@
-DatasetID	CellClusterID	ManualAnnotationLabel	nCells	MeanRNAUMIsPerCell	MeanATACFragmentsPerCell	Assay	Species	ATACtagAlignUnsorted	ATACtagAlignSorted	ATACtagAlignSortedIndex	GeneExpressionCPM	GeneExpressionFilteredH5	PeaksMACS2
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster0	Cluster0_d2_meso_d2.5_pre-artery_d2.5_pre-vein_d3_artery_d3_pre-vein_d3.5_artery_d3.5_vein_d4_artery	2514	1994.622116	3737.166269	MULTI-seq	Human		syn52236928		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster1	Cluster1_d1.5_d2.5_pre-artery_d3_artery_d3_pre-vein_d3.5_artery_d4_artery	2410	2000.470124	2529.422822	MULTI-seq	Human		syn52236921		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster2	Cluster2_d0_ipsc_d0.5_d1.5_d2_meso_d2.5_pre-artery_d2.5_pre-vein_d3_artery_d3_pre-vein_d3.5_artery_d3.5_vein_d4_artery_d4_vein_d4.5_vein	2111	2030.82378	3242.098295	MULTI-seq	Human		syn52236915		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster3	Cluster3_d0_ipsc_d2.5_pre-artery_d3_artery_d3_pre-vein_d3.5_artery_d4_artery_d4.5_vein	2027	1213.061667	2674.806611	MULTI-seq	Human		syn52236918		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster4	Cluster4_d1.5_d3.5_vein_d4_vein_d4.5_vein_d5_vein	1709	1281.624927	1853.835284	MULTI-seq	Human		syn52236902		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster5	Cluster5_d3_pre-vein_d3.5_vein_d4_vein_d4.5_vein_d5_vein	1673	1480.296473	2256.367005	MULTI-seq	Human		syn52236903		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster6	Cluster6_d0_ipsc_d0.5	1602	2905.836454	3634.977216	MULTI-seq	Human		syn52236908		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster7	Cluster7_d0_ipsc_d2.5_pre-artery_d2.5_pre-vein_d3_artery_d3_pre-vein_d3.5_vein_d4_vein_d4.5_vein_d5_vein	1418	2491.499295	2663.00952	MULTI-seq	Human		syn52236907		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster8	Cluster8_d1_ps	1283	2529.179267	3435.510522	MULTI-seq	Human		syn52236929		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster9	Cluster9_d1.5_d2_meso_d2.5_pre-artery_d2.5_pre-vein_d3.5_artery_d3.5_vein	1236	2070.311489	2721.308252	MULTI-seq	Human		syn52236932		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster10	Cluster10_d0_ipsc_d0.5_d1_ps_d1.5_d2_meso_d2.5_pre-artery_d2.5_pre-vein_d3_pre-vein_d4.5_vein_d5_vein	1137	2185.00088	3098.120053	MULTI-seq	Human		syn52236897		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster11	Cluster11_d0.5_d1_ps	885	3668.725424	3381.154237	MULTI-seq	Human		syn52236898		syn52270618	syn52261199	In progress
-230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster12	Cluster12_d1_ps_d1.5_d2_meso_d2.5_pre-artery_d2.5_pre-vein_d3_artery_d3_pre-vein_d3.5_artery_d3.5_vein_d4_artery_d4.5_vein_d5_vein	223	996.9820628	1930.336323	MULTI-seq	Human		syn52236899		syn52270618	syn52261199	In progress
-Bridge_Satpathy	Bridge_Satpathy_GLUT	GLUT	59850	6083.742	11487.742	10x Multiome	Mouse		syn52295174	syn52294870		syn52291722	In progress
-Bridge_Satpathy	Bridge_Satpathy_GABA	GABA	29876	4180.543	9149.429	10x Multiome	Mouse		syn52293863	syn52293865		syn52291722	In progress
-Bridge_Satpathy	Bridge_Satpathy_Oligodendrocyte	Oligodendrocyte	9002	1123.786	4164.051	10x Multiome	Mouse		syn52293316	syn52293318		syn52291722	In progress
-Bridge_Satpathy	Bridge_Satpathy_Astrocyte	Astrocyte	3169	1797.055	5410.243	10x Multiome	Mouse		syn52293289	syn52293291		syn52291722	In progress
-Bridge_Satpathy	Bridge_Satpathy_OPC	OPC	2742	1895.683	5362.419	10x Multiome	Mouse		syn52293329	syn52293330		syn52291722	In progress
-Bridge_Satpathy	Bridge_Satpathy_Microglia	Microglia	4005	1656.819	5577.822	10x Multiome	Mouse		syn52293300	syn52293302		syn52291722	In progress
-Bridge_Satpathy	Bridge_Satpathy_VLMC	VLMC	630	1888	6454.165	10x Multiome	Mouse		syn52293332	syn52293334		syn52291722	In progress
-CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster0	WTC11_endo_diff_t2	2114	6357	4790	MULTI-seq	Human		syn52289186		syn52292008	syn52291466	In progress
-CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster1	WTC11_endo_diff_t3_1	1947	5597	4381	MULTI-seq	Human		syn52289187		syn52292008	syn52291466	In progress
-CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster2	WTC11_endo_diff_t4	1927	6148	8039	MULTI-seq	Human		syn52289189		syn52292008	syn52291466	In progress
-CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster3	WTC11_endo_diff_t5	1902	4574	4502	MULTI-seq	Human		syn52289190		syn52292008	syn52291466	In progress
-CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster4	WTC11_endo_diff_t3_2	1389	5501	4266	MULTI-seq	Human		syn52289192		syn52292008	syn52291466	In progress
-CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster5	WTC11_endo_diff_t3_1	1286	6213	4602	MULTI-seq	Human		syn52289193		syn52292008	syn52291466	In progress
-CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster6	WTC11_endo_diff_t3_2	459	5150	4446	MULTI-seq	Human		syn52289194		syn52292008	syn52291466	In progress
-CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster0	K562	5607	6156	14957	MULTI-seq	Human		syn52293668		syn52293639	syn52292247	In progress
-CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster1	U20S	5359	5286	15208	MULTI-seq	Human		syn52293560		syn52293639	syn52292247	In progress
-CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster2	HAP1	4649	1800	6718	MULTI-seq	Human		syn52293570		syn52293639	syn52292247	In progress
-CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster3	HUDEP2	4599	4121	13346	MULTI-seq	Human		syn52293609		syn52293639	syn52292247	In progress
-CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster4	HL60	1643	2044	6889	MULTI-seq	Human		syn52293625		syn52293639	syn52292247	In progress
-CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster5	HUDEP2	285	4515	6080	MULTI-seq	Human		syn52293628		syn52293639	syn52292247	In progress
-CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster6	HL60	130	2171	7039	MULTI-seq	Human		syn52293629		syn52293639	syn52292247	In progress
-CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster0	telohaec_crispri	16299	8886	10916	MULTI-seq			syn52297853			syn52293716	In progress
-CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster1	jurkat	10528	5379	3741	MULTI-seq			syn52297894			syn52293716	In progress
-CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster2	k562_crispri	8625	7191	6808	MULTI-seq			syn52297896			syn52293716	In progress
-CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster3	jurkat_stim	6822	5328	4068	MULTI-seq			syn52297909			syn52293716	In progress
-CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster4	telohaec_crispri	4056	7605	8808	MULTI-seq			syn52297921			syn52293716	In progress
-CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster5	thp1_1	3537	4645	4722	MULTI-seq			syn52297924			syn52293716	In progress
-CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster6	thp1_2	3377	4809	4773	MULTI-seq			syn52297927			syn52293716	In progress
-CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster7	telohaec_crispri	1767	10160	12102	MULTI-seq			syn52297941			syn52293716	In progress
-CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster8	thp1_3	346	2348	3873	MULTI-seq			syn52297942			syn52293716	In progress
-CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster0	teloHAEC_TNF_24hr	4519	4428	13496	MULTI-seq	Human		syn52291178		syn52294133		In progress
-CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster1	teloHAEC_TNF_0hr	3918	3865	11713	MULTI-seq	Human		syn52291194		syn52294133		In progress
-CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster2	teloHAEC_TNF_4hr	3523	4127	12119	MULTI-seq	Human		syn52291209		syn52294133		In progress
-CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster3	teloHAEC_TNF_4hr	1923	5097	15759	MULTI-seq	Human		syn52291223		syn52294133		In progress
-CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster4	teloHAEC_TNF_24hr	1688	4970	13198	MULTI-seq	Human		syn52291236		syn52294133		In progress
-CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster5	teloHAEC_TNF_0hr	1470	5349	16767	MULTI-seq	Human		syn52291240		syn52294133		In progress
-CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster6	teloHAEC_TNF_0hr	855	5108	13404	MULTI-seq	Human		syn52291244		syn52294133		In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster0	WTC11_cardio_diff_t1_1	6301	12517	20618	MULTI-seq	Human		syn52291563			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster1	H9_cardio_diff_t2_1	5213	9456	5630	MULTI-seq	Human		syn52291580			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster2	HEPG2_wandwithout_serum	5160	14979	20934	MULTI-seq	Human		syn52291636			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster3	H9_cardio_diff_t1_1	4735	5988	9915	MULTI-seq	Human		syn52291663			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster4	WTC11_cardio_diff_t2_1	4357	4891	9873	MULTI-seq	Human		syn52291687			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster5	H9_cardio_diff_t1_2	3197	2827	8813	MULTI-seq	Human		syn52291696			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster6	WTC11_cardio_diff_t3_1	2948	4646	8776	MULTI-seq	Human		syn52291713			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster7	WTC11_cardio_diff_t2_2	2910	3342	10037	MULTI-seq	Human		syn52291721			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster8	H9_cardio_diff_t2_2	2328	2496	8958	MULTI-seq	Human		syn52291728			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster9	H9_cardio_diff_t1and2	1871	3034	11024	MULTI-seq	Human		syn52291736			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster10	H9_cardio_diff_t1_2	1638	3005	9523	MULTI-seq	Human		syn52291742			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster11	WTC11_cardio_diff_t1_2	1123	12240	19026	MULTI-seq	Human		syn52291752			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster12	WTC11_cardio_diff_t1_2	1102	12313	20887	MULTI-seq	Human		syn52291769			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster13	H9_cardio_diff_t2_3	1087	3092	10377	MULTI-seq	Human		syn52291773			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster14	WTC11_cardio_diff_t3_2	992	7305	6909	MULTI-seq	Human		syn52291776			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster15	WTC11_cardio_diff_t3_3	727	5771	8937	MULTI-seq	Human		syn52291778			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster16	H9_cardio_diff_t2_2	574	2624	8566	MULTI-seq	Human		syn52291780			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster17	unknown_1	298	4076	11396	MULTI-seq	Human		syn52291782			syn52298033	In progress
-CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster18	unknown_2	149	5230	10588	MULTI-seq	Human		syn52291783			syn52298033	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster0	WTC11_macrophage_m1	4848	3856	5054	MULTI-seq			syn52294098			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster1	WTC11_macrophage_cholesterol_1	4186	2693	4894	MULTI-seq			syn52294100			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster2	WTC11_macrophage_m0_2	2133	2947	4799	MULTI-seq			syn52294104			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster3	WTC11_macrophage_precursor	1562	1927	4073	MULTI-seq			syn52294107			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster4	WTC11_macrophage_m1	694	3261	5279	MULTI-seq			syn52294109			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster5	WTC11_macrophage_cholesterol_2	527	2868	4550	MULTI-seq			syn52294111			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster6	WTC11_macrophage_m2	4122	2948	4937	MULTI-seq			syn52294114			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster7	WTC11_macrophage_m1	3903	3489	4755	MULTI-seq			syn52294115			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster8	WTC11_macrophage_m0_1	3582	2435	5002	MULTI-seq			syn52294117			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster9	WTC11_macrophage_m2	3474	0	0	MULTI-seq			syn52294118			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster10	WTC11_macrophage_mitotic	2949	0	0	MULTI-seq			syn52294123			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster11	WTC11_macrophage_m2	2766	0	0	MULTI-seq			syn52294130			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster12	WTC11_macrophage_precursor	2670	0	0	MULTI-seq			syn52294131			syn52293730	In progress
-CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster13	WTC11_macrophage_m0_m2	2250	0	0	MULTI-seq			syn52294132			syn52293730	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster0	H1_gastruloid_1	9551	14632	11063	MULTI-seq			syn52298050			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster1	H9_neuron_t1	8590	4413	11719	MULTI-seq			syn52298058			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster2	H1_gastruloid_2	7481	4957	6860	MULTI-seq			syn52298060			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster3	H9_neuron_t1	6829	6664	12104	MULTI-seq			syn52298148			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster4	H1_neuron_t1_t2_t3	6011	505	8413	MULTI-seq			syn52300530			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster5	H9_neuron_t1	5821	9411	16278	MULTI-seq			syn52301340			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster6	HEK	5334	11148	9277	MULTI-seq			syn52301860			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster7	WTC11_neuron_ngn2	3863	8033	5630	MULTI-seq			syn52301923			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster8	H1_gastruloid_1	3239	22235	15827	MULTI-seq			syn52320781			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster9	H1_gastruloid_1	2739	8254	10671	MULTI-seq			syn52320786			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster10	H1_gastruloid_2	1676	2585	6125	MULTI-seq			syn52320791			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster11	WTC11_neuron_ngn2	552	9092	6303	MULTI-seq			syn52320793			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster12	HEK	412	4401	7699	MULTI-seq			syn52320801			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster13	WTC11_neuron_ngn2	386	8771	6408	MULTI-seq			syn52320802			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster14	H1_neuron_t2_t3	372	5692	13416	MULTI-seq			syn52320809			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster15	H1_neuron_t1_t2_t3	350	343	3071	MULTI-seq			syn52320814			syn52297702	In progress
-CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster16	H9_neuron_t1	222	16507	20744	MULTI-seq			syn52320825			syn52297702	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster0	H1_pancreas_S6_1	11339	894	10920	MULTI-seq			syn52320590			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster1	H1_pancreas_S6_1	10271	1772	9756	MULTI-seq			syn52319733			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster2	H1_pancreas_S6_2	9447	3227	13732	MULTI-seq			syn52319657			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster3	H1_pancreas_S52D	6258	3148	12639	MULTI-seq			syn52319531			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster4	H1_pancreas_S5	5833	3372	13400	MULTI-seq			syn52319553			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster5	H1_pancreas_S6_2	5289	2407	12457	MULTI-seq			syn52319606			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster6	H1_pancreas_S5	4073	3679	11348	MULTI-seq			syn52318989			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster7	H1_pancreas_S52D3D	3759	1421	11011	MULTI-seq			syn52319128			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster8	H1_pancreas_S3	3628	2469	15798	MULTI-seq			syn52319220			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster9	H1_pancreas_S4_1	3347	514	7718	MULTI-seq			syn52319243			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster10	H1_pancreas_S1	3102	3302	12406	MULTI-seq			syn52319256			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster11	H1_pancreas_S5	2149	2918	10263	MULTI-seq			syn52319327			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster12	H1_pancreas_S4_S5_S6	1929	1698	12929	MULTI-seq			syn52319331			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster13	H1_pancreas_S6_1	1871	799	8709	MULTI-seq			syn52319344			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster14	H1_pancreas_S4_2	1421	2438	13985	MULTI-seq			syn52319352			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster15	H1_pancreas_S4_3	1163	2282	14182	MULTI-seq			syn52319356			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster16	H1_pancreas_S6_1	974	3357	13675	MULTI-seq			syn52319359			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster17	H1_pancreas_S62D3D	853	1390	9965	MULTI-seq			syn52319361			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster18	H1_pancreas_S5	711	2247	11489	MULTI-seq			syn52319364			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster19	H1_pancreas_S3_S4	400	3703	16436	MULTI-seq			syn52319450			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster20	minor	382	2226	14238	MULTI-seq			syn52319461			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster21	minor	255	2885	11005	MULTI-seq			syn52319464			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster22	minor	2	584	19606	MULTI-seq			syn52319465			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster23	minor	169	912	10557	MULTI-seq			syn52319466			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster24	minor	2	1302	6936	MULTI-seq			syn52319467			syn52293810	In progress
-CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster25	minor	2	821	5589	MULTI-seq			syn52319468			syn52293810	In progress
-CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster0	hCASM_SMBM_noserum	7617	9508	5277	MULTI-seq			syn52298062			syn52293809	In progress
-CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster1	hCASM_DMEM_noserum	6745	12080	4562	MULTI-seq			syn52316242			syn52293809	In progress
-CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster2	hCASM_calcification_d6_d10	5828	7579	6681	MULTI-seq			syn52316529			syn52293809	In progress
-CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster3	hCASM_SMBM_serum	1626	10000	3651	MULTI-seq			syn52316661			syn52293809	In progress
-CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster4	hCASM_SMBM_noserum	681	11255	6380	MULTI-seq			syn52316708			syn52293809	In progress
-CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster5	hCASM_SMBM_noserum	457	6252	4544	MULTI-seq			syn52316730			syn52293809	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster0	WD44_gastruloid_d4	3590	1643	2300	MULTI-seq			syn52319576			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster1	WD44_gastruloid_d6_d8	2598	2142	1964	MULTI-seq			syn52319577			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster2	WD44_gastruloid_d4_thru_d12_1	2222	2575	2090	MULTI-seq			syn52319580			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster3	WD44_gastruloid_d8_thru_d12	1466	1614	1820	MULTI-seq			syn52319581			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster4	WD44_gastruloid_d10_d12	973	1821	1485	MULTI-seq			syn52319582			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster5	WD44_gastruloid_d4_thru_d12_2	749	2656	1875	MULTI-seq			syn52319583			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster6	WD44_gastruloid_d4	605	2215	2231	MULTI-seq			syn52319584			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster7	WD44_gastruloid_d4	564	2313	2510	MULTI-seq			syn52319585			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster8	WD44_gastruloid_d6_d8	483	2699	1738	MULTI-seq			syn52319586			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster9	WD44_gastruloid_d4_thru_d12_2	330	2153	1937	MULTI-seq			syn52319587			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster10	WD44_gastruloid_d8_thru_d12	218	1592	1531	MULTI-seq			syn52319588			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster11	WD44_gastruloid_d10_d12	85	2383	1432	MULTI-seq			syn52319589			syn52319593	In progress
-CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster12	WD44_gastruloid_d4_thru_d12_2	58	2368	1968	MULTI-seq			syn52319591			syn52319593	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster0	bcell_d3	18878	10150	9427	MULTI-seq	Human					syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster1	bcell_d2_thru_d6	15149	1081	2981	MULTI-seq	Human		syn52297425			syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster2	bcell_d3	12993	6866	7867	MULTI-seq	Human		syn52297446			syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster3	bcell_d5	11647	9054	12546	MULTI-seq	Human		syn52297465			syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster4	bcell_d2	8187	7469	10169	MULTI-seq	Human		syn52297545			syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster5	bcell_d6	6713	4548	7493	MULTI-seq	Human		syn52297565			syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster6	bcell_d3	6038	9346	8846	MULTI-seq	Human		syn52297570			syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster7	bcell_d5_and_d6	4842	6351	9395	MULTI-seq	Human		syn52297576			syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster8	bcell_d6	2810	7086	10185	MULTI-seq	Human		syn52297578			syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster9	bcell_d1	1670	2513	5673	MULTI-seq	Human					syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster10	bcell_d2_and_d3	1429	5824	7315	MULTI-seq	Human					syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster11	bcell_d3_and_d5	1094	7555	4810	MULTI-seq	Human					syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster12	bcell_d3	855	6472	9737	MULTI-seq	Human					syn52293814	In progress
-CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster13	bcell_d0	556	1454	4607	MULTI-seq	Human					syn52293814	In progress
-ENCODE_GM12878_10X_scATACseq	ENCODEGM12878_Cluster0	lymphoblastoid	5974	0	28802	10X snATAC-seq	Human		syn52271002	syn52271005			In progress
-ENCODE_K562_10X_scATACseq	ENCODEK562_Cluster0	lymphoblast	4525	0	29169	10X snATAC-seq	Human		syn52270990	syn52270991			In progress
-ENCODE-Liver-10XMultiome	Cluster5	T_cells	163	()	5486	10X Multiome	Human		syn52297907	syn52297906			In progress
-ENCODE-Liver-10XMultiome	Cluster2	Fibroblasts	632	()	8898	10X Multiome	Human		syn52297912	syn52297913			In progress
-ENCODE-Liver-10XMultiome	Cluster3	Hepatocytes	8480	()	8488	10X Multiome	Human		syn52297945	syn52297946			In progress
-ENCODE-Liver-10XMultiome	Cluster4	Macrophages	407	()	6656	10X Multiome	Human		syn52297948	syn52297951			In progress
-ENCODE-Liver-10XMultiome	Cluster1	Endothelial_cells	899	()	4566	10X Multiome	Human		syn52297900	syn52297901			In progress
-ENCODE-Liver-10XMultiome	Cluster0	Cholangiocytes	598	()	7541	10X Multiome	Human		syn52297903	syn52297904			In progress
-ENCSR023FME	ENCSR023FME_Cluster1	Type_I_skeletal_myocyte	3528	()	4172	sciATAC-seq	Human	syn52188510	syn52249910	syn52249904			In progress
-ENCSR023FME	ENCSR023FME_Cluster2	Fibroblast	618	()	2623	sciATAC-seq	Human	syn52188518	syn52249917	syn52249912			In progress
-ENCSR023FME	ENCSR023FME_Cluster3	Basal_epithelial_cell	3272	()	3909	sciATAC-seq	Human	syn52188865	syn52249919	syn52249920			In progress
-ENCSR023FME	ENCSR023FME_Cluster4	Endothelial_cell	670	()	2487	sciATAC-seq	Human	syn52188897	syn52249922	syn52249923			In progress
-ENCSR052DKH	ENCSR052DKH_Cluster1	Tuft_cell	246	()	4724	sciATAC-seq	Human	syn52186029	syn52237042	syn52237016			In progress
-ENCSR052DKH	ENCSR052DKH_Cluster2	Macrophage	361	()	6132	sciATAC-seq	Human	syn52186070	syn52237061	syn52237062			In progress
-ENCSR052DKH	ENCSR052DKH_Cluster3	T_lymphocyte	198	()	6136	sciATAC-seq	Human	syn52187558	syn52237050	syn52237051			In progress
-ENCSR052DKH	ENCSR052DKH_Cluster4	Vascular_smooth_muscle_cell	1243	()	7179	sciATAC-seq	Human	syn52187733	syn52237058	syn52237059			In progress
-ENCSR181XXQ	ENCSR181XXQ_Cluster1	Adipocyte	541	()	3016	sciATAC-seq	Human	syn52187471	syn52249767	syn52249766			In progress
-ENCSR181XXQ	ENCSR181XXQ_Cluster2	Vascular_smooth_muscle_cell	732	()	2448	sciATAC-seq	Human	syn52187479	syn52249770	syn52249771			In progress
-ENCSR181XXQ	ENCSR181XXQ_Cluster3	Endothelial_cell	527	()	2283	sciATAC-seq	Human	syn52187485	syn52249779	syn52249776			In progress
-ENCSR181XXQ	ENCSR181XXQ_Cluster4	Mesothelial_cell	872	()	2532	sciATAC-seq	Human	syn52187496	syn52249774	syn52249773			In progress
-ENCSR205TUH	ENCSR205TUH_Cluster1	Vascular_smooth_muscle_cell	1986	()	2582	sciATAC-seq	Human	syn52186305	syn52249557	syn52249558			In progress
-ENCSR205TUH	ENCSR205TUH_Cluster2	Schwann_cell	535	()	2370	sciATAC-seq	Human	syn52186309	syn52249553	syn52249554			In progress
-ENCSR261TQO	ENCSR261TQO_Cluster1	Endothelial_cell	286	()	3320	sciATAC-seq	Human	syn52187311	syn52249743	syn52249742			In progress
-ENCSR261TQO	ENCSR261TQO_Cluster2	Enteroendocrine_cell	183	()	4624	sciATAC-seq	Human	syn52187324	syn52249763	syn52249764			In progress
-ENCSR261TQO	ENCSR261TQO_Cluster3	Ductal_cell	529	()	3741	sciATAC-seq	Human	syn52187345	syn52249740	syn52249739			In progress
-ENCSR261TQO	ENCSR261TQO_Cluster4	T_lymphocyte	453	()	2368	sciATAC-seq	Human	syn52187350	syn52249757	syn52249756			In progress
-ENCSR261TQO	ENCSR261TQO_Cluster5	Macrophage	950	()	3111	sciATAC-seq	Human	syn52187358	syn52249761	syn52249760			In progress
-ENCSR261TQO	ENCSR261TQO_Cluster6	Acinar_cell	5306	()	4063	sciATAC-seq	Human	syn52187454	syn52249753	syn52249754			In progress
-ENCSR302CMX	ENCSR302CMX_Cluster1	Fibroblast	1320	()	4002	sciATAC-seq	Human	syn52188032	syn52249879	syn52249876			In progress
-ENCSR302CMX	ENCSR302CMX_Cluster2	Vascular_smooth_muscle_cell	2283	()	3090	sciATAC-seq	Human	syn52188584	syn52249892	syn52249893			In progress
-ENCSR302CMX	ENCSR302CMX_Cluster3	Smooth_muscle_cell	131	()	3222	sciATAC-seq	Human	syn52188605	syn52249887	syn52249886			In progress
-ENCSR302CMX	ENCSR302CMX_Cluster4	Endothelial_cell	550	()	2845	sciATAC-seq	Human	syn52188616	syn52249881	syn52249884			In progress
-ENCSR367GKP	ENCSR367GKP_Cluster1	Fibroblast	1861	()	3827	sciATAC-seq	Human	syn52186106	syn52249519	syn52249520			In progress
-ENCSR367GKP	ENCSR367GKP_Cluster2	Schwann_cell	618	()	2788	sciATAC-seq	Human	syn52186111	syn52249529	syn52249530			In progress
-ENCSR367GKP	ENCSR367GKP_Cluster3	Smooth_muscle_cell	853	()	3006	sciATAC-seq	Human	syn52186149	syn52249523	syn52249522			In progress
-ENCSR367GKP	ENCSR367GKP_Cluster4	Vascular_smooth_muscle_cell	4632	()	4793	sciATAC-seq	Human	syn52186241	syn52249547	syn52249548			In progress
-ENCSR367GKP	ENCSR367GKP_Cluster5	Macrophage	343	()	2844	sciATAC-seq	Human	syn52186256	syn52249551	syn52249550			In progress
-ENCSR397LYX	ENCSR397LYX_Cluster1	Vascular_smooth_muscle_cell	927	()	2949	sciATAC-seq	Human	syn52186076	syn52248911	syn52248912			In progress
-ENCSR397LYX	ENCSR397LYX_Cluster2	Endothelial_cell	618	()	2640	sciATAC-seq	Human	syn52186078	syn52248904	syn52248903			In progress
-ENCSR397LYX	ENCSR397LYX_Cluster3	Basal_epithelial_cell	1149	()	2854	sciATAC-seq	Human	syn52186083	syn52248907	syn52248908			In progress
-ENCSR411MLR	ENCSR411MLR_Cluster1	Macrophage	760	()	3877	sciATAC-seq	Human	syn52186776	syn52249634	syn52249633			In progress
-ENCSR411MLR	ENCSR411MLR_Cluster2	T_lymphocyte	342	()	3003	sciATAC-seq	Human	syn52186777	syn52249624	syn52249625			In progress
-ENCSR411MLR	ENCSR411MLR_Cluster3	Vascular_smooth_muscle_cell.1	282	()	3857	sciATAC-seq	Human	syn52186778	syn52249627	syn52249628			In progress
-ENCSR411MLR	ENCSR411MLR_Cluster4	Endothelial_cell	325	()	3990	sciATAC-seq	Human	syn52186779	syn52249630	syn52249631			In progress
-ENCSR411MLR	ENCSR411MLR_Cluster5	Vascular_smooth_muscle_cell.2	6664	()	5472	sciATAC-seq	Human	syn52187034	syn52249669	syn52249670			In progress
-ENCSR453TVZ	ENCSR453TVZ_Cluster1	Basal_epithelial_cell.1	213	()	6036	sciATAC-seq	Human	syn52187519	syn52249841	syn52249840			In progress
-ENCSR453TVZ	ENCSR453TVZ_Cluster2	Basal_epithelial_cell.2	1466	()	4310	sciATAC-seq	Human	syn52187556	syn52249828	syn52249805			In progress
-ENCSR453TVZ	ENCSR453TVZ_Cluster3	Basal_epithelial_cell.3	1511	()	6642	sciATAC-seq	Human	syn52187741	syn52249803	syn52249799			In progress
-ENCSR453TVZ	ENCSR453TVZ_Cluster4	T_lymphocyte	3001	()	3174	sciATAC-seq	Human	syn52188365	syn52249795	syn52249797			In progress
-ENCSR455CVZ	ENCSR455CVZ_Cluster1	Endothelial_cell	320	()	4708	sciATAC-seq	Human	syn52187781	syn52249902	syn52249899			In progress
-ENCSR455CVZ	ENCSR455CVZ_Cluster2	Vascular_smooth_muscle_cell	847	()	3752	sciATAC-seq	Human	syn52187909	syn52249897	syn52249895			In progress
-ENCSR474TGL	ENCSR474TGL_Cluster1	Endothelial_cell	677	()	2973	sciATAC-seq	Human	syn52188947	syn52249963	syn52249964			In progress
-ENCSR474TGL	ENCSR474TGL_Cluster2	Fibroblast	1771	()	2901	sciATAC-seq	Human	syn52189082	syn52249960	syn52249957			In progress
-ENCSR474TGL	ENCSR474TGL_Cluster3	Basal_epithelial_cell	985	()	3425	sciATAC-seq	Human	syn52189149	syn52249970	syn52249969			In progress
-ENCSR474TGL	ENCSR474TGL_Cluster4	Macrophage	592	()	2509	sciATAC-seq	Human	syn52189188	syn52249967	syn52249966			In progress
-ENCSR506YMX	ENCSR506YMX_Cluster1	Luminal_epithelial_cell	2053	()	4021	sciATAC-seq	Human	syn52186640	syn52249609	syn52249610			In progress
-ENCSR506YMX	ENCSR506YMX_Cluster2	Vascular_smooth_muscle_cell	1839	()	4337	sciATAC-seq	Human	syn52186715	syn52249620	syn52249621			In progress
-ENCSR506YMX	ENCSR506YMX_Cluster3	Tuft_cell	2273	()	3596	sciATAC-seq	Human	syn52186726	syn52249616	syn52249617			In progress
-ENCSR506YMX	ENCSR506YMX_Cluster4	Goblet_cell	705	()	3696	sciATAC-seq	Human	syn52186729	syn52249612	syn52249613			In progress
-ENCSR506YMX	ENCSR506YMX_Cluster5	T_lymphocyte	554	()	2423	sciATAC-seq	Human	syn52186735	syn52249607	syn52249605			In progress
-ENCSR538FPK	ENCSR538FPK_Cluster1	Fibroblast	2134	()	5159	sciATAC-seq	Human	syn52190193	syn52249986	syn52249987			In progress
-ENCSR538FPK	ENCSR538FPK_Cluster2	Endothelial_cell	1233	()	3259	sciATAC-seq	Human	syn52190978	syn52250005	syn52250006			In progress
-ENCSR538FPK	ENCSR538FPK_Cluster3	T_lymphocyte	170	()	2832	sciATAC-seq	Human	syn52190992	syn52250012	syn52250011			In progress
-ENCSR538FPK	ENCSR538FPK_Cluster4	Smooth_muscle_cell	1181	()	3881	sciATAC-seq	Human	syn52191248	syn52250009	syn52250008			In progress
-ENCSR538FPK	ENCSR538FPK_Cluster5	Macrophage	997	()	3683	sciATAC-seq	Human	syn52191303	syn52250003	syn52250001			In progress
-ENCSR538FPK	ENCSR538FPK_Cluster6	Cardiomyocyte	2530	()	11893	sciATAC-seq	Human	syn52191664	syn52249999	syn52249989			In progress
-ENCSR660NEE	ENCSR660NEE_Cluster1	Fibroblast	2444	()	6532	sciATAC-seq	Human	syn52187139	syn52249698	syn52249695			In progress
-ENCSR660NEE	ENCSR660NEE_Cluster2	Vascular_smooth_muscle_cell	2867	()	5463	sciATAC-seq	Human	syn52187209	syn52249710	syn52249700			In progress
-ENCSR660NEE	ENCSR660NEE_Cluster3	Mast_cell	661	()	4114	sciATAC-seq	Human	syn52187215	syn52249692	syn52249693			In progress
-ENCSR660NEE	ENCSR660NEE_Cluster4	Schwann_cell	578	()	5700	sciATAC-seq	Human	syn52187237	syn52249716	syn52249712			In progress
-ENCSR660NEE	ENCSR660NEE_Cluster5	Endothelial_cell	376	()	4340	sciATAC-seq	Human	syn52187255	syn52249734	syn52249726			In progress
-ENCSR660NEE	ENCSR660NEE_Cluster6	Macrophage	607	()	4934	sciATAC-seq	Human	syn52187285	syn52249737	syn52249736			In progress
-ENCSR660NEE	ENCSR660NEE_Cluster7	T_lymphocyte	416	()	3741	sciATAC-seq	Human	syn52187291	syn52249718	syn52249719			In progress
-ENCSR660NEE	ENCSR660NEE_Cluster8	Smooth_muscle_cell	534	()	5779	sciATAC-seq	Human	syn52187304	syn52249722	syn52249724			In progress
-ENCSR718WGE	ENCSR718WGE_Cluster1	Type_II_pneumocyte	3166	()	4061	sciATAC-seq	Human	syn52191067	syn52250034	syn52250028			In progress
-ENCSR718WGE	ENCSR718WGE_Cluster2	Macrophage	1797	()	4578	sciATAC-seq	Human	syn52191306	syn52250026	syn52250025			In progress
-ENCSR718WGE	ENCSR718WGE_Cluster3	Endothelial_cell	550	()	7026	sciATAC-seq	Human	syn52191513	syn52250023	syn52250019			In progress
-ENCSR718WGE	ENCSR718WGE_Cluster4	T_lymphocyte	1199	()	3552	sciATAC-seq	Human	syn52191528	syn52250016	syn52250017			In progress
-ENCSR776EOI	ENCSR776EOI_Cluster1	Fibroblast	1877	()	3736	sciATAC-seq	Human	syn52190881	syn52250046	syn52250047			In progress
-ENCSR776EOI	ENCSR776EOI_Cluster2	Macrophage	1181	()	2919	sciATAC-seq	Human	syn52190973	syn52250051	syn52250049			In progress
-ENCSR776EOI	ENCSR776EOI_Cluster3	Cardiomyocyte	712	()	3938	sciATAC-seq	Human	syn52190998	syn52250040	syn52250039			In progress
-ENCSR776EOI	ENCSR776EOI_Cluster4	Mesothelial_cell	877	()	6098	sciATAC-seq	Human	syn52191280	syn52250037	syn52250036			In progress
-ENCSR796RXX	ENCSR796RXX_Cluster1	Follicular_cell	8102	()	5393	sciATAC-seq	Human	syn52189910	syn52249980	syn52249976			In progress
-ENCSR796RXX	ENCSR796RXX_Cluster2	Fibroblast	297	()	4138	sciATAC-seq	Human	syn52189927	syn52249974	syn52249973			In progress
-ENCSR796RXX	ENCSR796RXX_Cluster3	Endothelial_cell	335	()	3720	sciATAC-seq	Human	syn52189938	syn52249983	syn52249982			In progress
-ENCSR822GXQ	ENCSR822GXQ_Cluster1	Endothelial_cell	360	()	5752	sciATAC-seq	Human	syn52187739	syn52249855	syn52249854			In progress
-ENCSR822GXQ	ENCSR822GXQ_Cluster2	T_lymphocyte	164	()	3329	sciATAC-seq	Human	syn52187742	syn52249873	syn52249874			In progress
-ENCSR822GXQ	ENCSR822GXQ_Cluster3	Macrophage	471	()	4606	sciATAC-seq	Human	syn52187832	syn52249851	syn52249852			In progress
-ENCSR822GXQ	ENCSR822GXQ_Cluster4	Vascular_smooth_muscle_cell	4247	()	7137	sciATAC-seq	Human	syn52190735	syn52249865	syn52249859			In progress
-ENCSR822GXQ	ENCSR822GXQ_Cluster5	Basal_epithelial_cell	474	()	5122	sciATAC-seq	Human	syn52190749	syn52249845	syn52249843			In progress
-ENCSR822GXQ	ENCSR822GXQ_Cluster6	Fibroblast	742	()	6890	sciATAC-seq	Human	syn52190974	syn52249871	syn52249867			In progress
-ENCSR845QFX	ENCSR845QFX_Cluster1	Endothelial_cell	426	()	3790	sciATAC-seq	Human	syn52188629	syn52249949	syn52249948			In progress
-ENCSR845QFX	ENCSR845QFX_Cluster2	Luminal_epithelial_cell.1	1458	()	5927	sciATAC-seq	Human	syn52188689	syn52249953	syn52249954			In progress
-ENCSR845QFX	ENCSR845QFX_Cluster3	Luminal_epithelial_cell.2	1341	()	6587	sciATAC-seq	Human	syn52188706	syn52249939	syn52249940			In progress
-ENCSR845QFX	ENCSR845QFX_Cluster4	Luminal_epithelial_cell.3	446	()	4659	sciATAC-seq	Human	syn52188709	syn52249946	syn52249945			In progress
-ENCSR845QFX	ENCSR845QFX_Cluster5	Fibroblast	451	()	5087	sciATAC-seq	Human	syn52188713	syn52249943	syn52249942			In progress
-ENCSR845QFX	ENCSR845QFX_Cluster6	Vascular_smooth_muscle_cell	3784	()	4889	sciATAC-seq	Human	syn52189132	syn52249936	syn52249937			In progress
-ENCSR848EID	ENCSR848EID_Cluster1	Gastric_chief_cell	890	()	3162	sciATAC-seq	Human	syn52187039	syn52249680	syn52249682			In progress
-ENCSR848EID	ENCSR848EID_Cluster2	Macrophage	187	()	2682	sciATAC-seq	Human	syn52187041	syn52249685	syn52249686			In progress
-ENCSR848EID	ENCSR848EID_Cluster3	Luminal_epithelial_cell	164	()	2594	sciATAC-seq	Human	syn52187042	syn52249672	syn52249673			In progress
-ENCSR848EID	ENCSR848EID_Cluster4	T_lymphocyte	638	()	2874	sciATAC-seq	Human	syn52187047	syn52249689	syn52249688			In progress
-ENCSR848EID	ENCSR848EID_Cluster5	Fibroblast	822	()	3205	sciATAC-seq	Human	syn52187050	syn52249677	syn52249678			In progress
-ENCSR868ZEI	ENCSR868ZEI_Cluster1	Mast_cell	172	()	4334	sciATAC-seq	Human	syn52186312	syn52249565	syn52249564			In progress
-ENCSR868ZEI	ENCSR868ZEI_Cluster2	T_lymphocyte	182	()	4019	sciATAC-seq	Human	syn52186316	syn52249579	syn52249580			In progress
-ENCSR868ZEI	ENCSR868ZEI_Cluster3	Macrophage	563	()	6340	sciATAC-seq	Human	syn52186349	syn52249597	syn52249595			In progress
-ENCSR868ZEI	ENCSR868ZEI_Cluster4	Vascular_smooth_muscle_cell	1596	()	7859	sciATAC-seq	Human	syn52186397	syn52249603	syn52249599			In progress
-ENCSR868ZEI	ENCSR868ZEI_Cluster5	Endothelial_cell	636	()	7340	sciATAC-seq	Human	syn52186420	syn52249567	syn52249568			In progress
-ENCSR868ZEI	ENCSR868ZEI_Cluster6	Schwann_cell	324	()	5528	sciATAC-seq	Human	syn52186421	syn52249575	syn52249577			In progress
-ENCSR868ZEI	ENCSR868ZEI_Cluster7	Myofibroblast	78	()	7270	sciATAC-seq	Human	syn52186422	syn52249570	syn52249571			In progress
-ENCSR868ZEI	ENCSR868ZEI_Cluster8	Fibroblast	3326	()	8626	sciATAC-seq	Human	syn52186564	syn52249592	syn52249593			In progress
-ENCSR868ZEI	ENCSR868ZEI_Cluster9	Smooth_muscle_cell	464	()	6569	sciATAC-seq	Human	syn52186568	syn52249561	syn52249562			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster1	tagAlign_GerminalCenter10xATAC_Tcm_CD8	225	()	4000	10X scATAC	Human	syn52295769	syn52320669	syn52320670			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster2	tagAlign_GerminalCenter10xATAC_DZ_GC	2176	()	12400	10X scATAC	Human	syn52295808	syn52320671	syn52320672			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster3	tagAlign_GerminalCenter10xATAC_Activated_B	3158	()	2902	10X scATAC	Human	syn52295823					In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster4	tagAlign_GerminalCenter10xATAC_Dendritic	36	()	4702	10X scATAC	Human	syn52295824	syn52320673	syn52320674			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster5	tagAlign_GerminalCenter10xATAC_Plasmablasts	484	()	4626	10X scATAC	Human	syn52295829	syn52320675	syn52320676			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster6	tagAlign_GerminalCenter10xATAC_MBC	1285	()	2904	10X scATAC	Human	syn52295833	syn52320677	syn52320678			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster7	tagAlign_GerminalCenter10xATAC_Tcm_CD4	370	()	1504	10X scATAC	Human	syn52295835	syn52320679	syn52320681			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster8	tagAlign_GerminalCenter10xATAC_Myeloid	251	()	1567	10X scATAC	Human	syn52295837	syn52320682	syn52320683			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster9	tagAlign_GerminalCenter10xATAC_CTL	421	()	3432	10X scATAC	Human	syn52295840	syn52320686	syn52320687			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster10	tagAlign_GerminalCenter10xATAC_Treg	322	()	6210	10X scATAC	Human	syn52295844	syn52320688	syn52320689			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster11	tagAlign_GerminalCenter10xATAC_LZ_GC	1093	()	5718	10X scATAC	Human	syn52295851	syn52320690	syn52320691			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster12	tagAlign_GerminalCenter10xATAC_Naive_T	542	()	2706	10X scATAC	Human	syn52295855	syn52320693	syn52320694			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster13	tagAlign_GerminalCenter10xATAC_Naive_B	3137	()	845	10X scATAC	Human	syn52295860	syn52320695	syn52320696			In progress
-GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster14	tagAlign_GerminalCenter10xATAC_Tfh	889	()	3780	10X scATAC	Human	syn52295867	syn52320697	syn52320698			In progress
-GM12878_10XMultiome	GM12878_10XMultiome_Cluster1	GM12878_10XMultiome	563	()	20189	10x Multiome	Human	syn52263983	syn52320752	syn52320753			In progress
-igvf_b01_LeftCortex	igvf_b01_LeftCortex_GABA	GABA	21582	8016.348	NA	Parse SplitSeq	Mouse					syn52283316	In progress
-igvf_b01_LeftCortex	igvf_b01_LeftCortex_GLUT	GLUT	39481	10258.656	NA	Parse SplitSeq	Mouse					syn52283316	In progress
-igvf_b01_LeftCortex	igvf_b01_LeftCortex_Astrocyte	Astrocyte	11005	2387.645	NA	Parse SplitSeq	Mouse					syn52283316	In progress
-igvf_b01_LeftCortex	igvf_b01_LeftCortex_Oligodendrocyte	Oligodendrocyte	9662	1690.527	NA	Parse SplitSeq	Mouse					syn52283316	In progress
-igvf_b01_LeftCortex	igvf_b01_LeftCortex_OPC	OPC	2788	3114.942	NA	Parse SplitSeq	Mouse					syn52283316	In progress
-igvf_b01_LeftCortex	igvf_b01_LeftCortex_Microglia	Microglia	3452	1260.002	NA	Parse SplitSeq	Mouse					syn52283316	In progress
-igvf_b01_LeftCortex	igvf_b01_LeftCortex_VLMC	VLMC	1584	1995.734	NA	Parse SplitSeq	Mouse					syn52283316	In progress
-igvf_b01_LeftCortex	igvf_b01_LeftCortex_Endothelial	Endothelial	1104	1965.31	NA	Parse SplitSeq	Mouse					syn52283316	In progress
-igvf_b01_LeftCortex	igvf_b01_LeftCortex_Ependymal	Ependymal	189	4540.513	NA	Parse SplitSeq	Mouse					syn52283316	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_CD4-positive	CD4-positive	23355	977.906615285806	613.109676728752	SHARE-seq	Human		syn52280393	syn52280363		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_CD8-positive	CD8-positive	2671	960.849494571322	569.664545114189	SHARE-seq	Human		syn52280394	syn52280362		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_common-myeloid-progenitor	common myeloid progenitor	1078	979.276437847866	620.951762523191	SHARE-seq	Human		syn52280390	syn52280361		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_erythrocyte	erythrocyte	289	1012.69896193772	791.458477508651	SHARE-seq	Human		syn52280389	syn52280360		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_erythroid-progenitor-cell	erythroid progenitor cell	7838	984.772773666752	655.032533809645	SHARE-seq	Human		syn52280388	syn52280359		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_granulocyte	granulocyte	5920	965.463513513513	618.167736486486	SHARE-seq	Human		syn52280387	syn52280358		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_hematopoietic-stem-cell	hematopoietic stem cell	3603	1000.95614765473	632.790729947266	SHARE-seq	Human		syn52280386	syn52280357		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_macrophage	macrophage	9	802.555555555556	654.555555555556	SHARE-seq	Human		syn52280383	syn52280356		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_mature-NK-T-cell	mature NK T cell	3568	956.072589686099	599.412976457399	SHARE-seq	Human		syn52280382	syn52280355		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_memory-B-cell	memory B cell	4697	964.331488183947	623.033532041729	SHARE-seq	Human		syn52280381	syn52280354		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_monocyte	monocyte	6408	970.131554307116	628.761001872659	SHARE-seq	Human		syn52280377	syn52280353		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_naive-B-cell	naive B cell	4922	972.716781796018	606.215258025193	SHARE-seq	Human		syn52280368	syn52280352		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_neutrophil	neutrophil	7105	972.076706544687	642.242997888811	SHARE-seq	Human		syn52280365	syn52280351		syn52280400	In progress
-Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_plasma-cell	plasma cell	988	936.976720647773	607.376012145749	SHARE-seq	Human		syn52280364	syn52280350		syn52280400	In progress
+CellClusterID	DatasetID	ManualAnnotationLabel	nCells	MeanRNAUMIsPerCell	MeanATACFragmentsPerCell	Biosample	Assay	Species	ATACtagAlignUnsorted	ATACtagAlignSorted	ATACtagAlignSortedIndex	GeneExpressionCPM	GeneExpressionFilteredH5	PeaksMACS2
+230601_iPSC_art_ven_EC_10xmultiome_Cluster0	230601_iPSC_art_ven_EC_10Xmultiome	pre-arterial and pre-venous endothelial cells differentiated from WTC11 hiPSC	2514	1994.622116	3737.166269	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236928	syn52361580	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster1	230601_iPSC_art_ven_EC_10Xmultiome	arterial endothelial cells differentiated from WTC11 hiPSC	2410	2000.470124	2529.422822	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236921	syn52361546	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster10	230601_iPSC_art_ven_EC_10Xmultiome	pre-primitive streak cells differentiated from WTC11 hiPSC	1137	2185.00088	3098.120053	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236897	syn52361556	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster11	230601_iPSC_art_ven_EC_10Xmultiome	pre-primitive streak cells differentiated from WTC11 hiPSC	885	3668.725424	3381.154237	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236898	syn52361557	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster12	230601_iPSC_art_ven_EC_10Xmultiome	arterial and venous endothelial cells differentiated from WTC11 hiPSC	223	996.9820628	1930.336323	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236899	syn52361558	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster2	230601_iPSC_art_ven_EC_10Xmultiome	mesoderm cells differentiated from WTC11 hiPSC	2111	2030.82378	3242.098295	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236915	syn52361548	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster3	230601_iPSC_art_ven_EC_10Xmultiome	arterial endothelial cells differentiated from WTC11 hiPSC	2027	1213.061667	2674.806611	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236918	syn52361549	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster4	230601_iPSC_art_ven_EC_10Xmultiome	venous endothelial cells differentiated from WTC11 hiPSC	1709	1281.624927	1853.835284	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236902	syn52361550	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster5	230601_iPSC_art_ven_EC_10Xmultiome	pre-venous endothelial cells differentiated from WTC11 hiPSC	1673	1480.296473	2256.367005	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236903	syn52361551	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster6	230601_iPSC_art_ven_EC_10Xmultiome	WTC11 hiPSC	1602	2905.836454	3634.977216	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236908	syn52361552	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster7	230601_iPSC_art_ven_EC_10Xmultiome	non-venous endothelial cells differentiated from WTC11 hiPSC	1418	2491.499295	2663.00952	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236907	syn52361553	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster8	230601_iPSC_art_ven_EC_10Xmultiome	primitive streak cells differentiated from WTC11 hiPSC	1283	2529.179267	3435.510522	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236929	syn52361554	syn52270618	syn52261199	In progress
+230601_iPSC_art_ven_EC_10xmultiome_Cluster9	230601_iPSC_art_ven_EC_10Xmultiome	pre-mesoderm cells differentiated from WTC11 hiPSC	1236	2070.311489	2721.308252	WTC11 differentiated to arterial and venous endothelial cells	MULTI-seq	Human		syn52236932	syn52361555	syn52270618	syn52261199	In progress
+Bridge_Satpathy_Astrocyte	Bridge_Satpathy	Astrocyte	3169	1797.055	5410.243	Brain cortex from 7 mice (Mortazavi)	10x Multiome	Mouse		syn52293289	syn52293291		syn52291722	In progress
+Bridge_Satpathy_GABA	Bridge_Satpathy	GABA	29876	4180.543	9149.429	Brain cortex from 7 mice (Mortazavi)	10x Multiome	Mouse		syn52293863	syn52293865		syn52291722	In progress
+Bridge_Satpathy_GLUT	Bridge_Satpathy	GLUT	59850	6083.742	11487.742	Brain cortex from 7 mice (Mortazavi)	10x Multiome	Mouse		syn52295174	syn52294870		syn52291722	In progress
+Bridge_Satpathy_Microglia	Bridge_Satpathy	Microglia	4005	1656.819	5577.822	Brain cortex from 7 mice (Mortazavi)	10x Multiome	Mouse		syn52293300	syn52293302		syn52291722	In progress
+Bridge_Satpathy_Oligodendrocyte	Bridge_Satpathy	Oligodendrocyte	9002	1123.786	4164.051	Brain cortex from 7 mice (Mortazavi)	10x Multiome	Mouse		syn52293316	syn52293318		syn52291722	In progress
+Bridge_Satpathy_OPC	Bridge_Satpathy	OPC	2742	1895.683	5362.419	Brain cortex from 7 mice (Mortazavi)	10x Multiome	Mouse		syn52293329	syn52293330		syn52291722	In progress
+Bridge_Satpathy_VLMC	Bridge_Satpathy	VLMC	630	1888	6454.165	Brain cortex from 7 mice (Mortazavi)	10x Multiome	Mouse		syn52293332	syn52293334		syn52291722	In progress
+mcginnis_dataset0_cluster0	CharacterizationMcGinnis_Dataset0	WTC11 hiPSC endothelial differentiation t2	2114	6357	4790	WTC11 differentiation to endothelial cells (Engreitz)	MULTI-seq	Human		syn52289186	syn52335527	syn52292008	syn52291466	In progress
+mcginnis_dataset0_cluster1	CharacterizationMcGinnis_Dataset0	WTC11 hiPSC endothelial differentiation t3 state 1	1947	5597	4381	WTC11 differentiation to endothelial cells (Engreitz)	MULTI-seq	Human		syn52289187	syn52335528	syn52292008	syn52291466	In progress
+mcginnis_dataset0_cluster2	CharacterizationMcGinnis_Dataset0	WTC11 hiPSC endothelial differentiation t4	1927	6148	8039	WTC11 differentiation to endothelial cells (Engreitz)	MULTI-seq	Human		syn52289189	syn52335529	syn52292008	syn52291466	In progress
+mcginnis_dataset0_cluster3	CharacterizationMcGinnis_Dataset0	WTC11 hiPSC endothelial differentiation t5	1902	4574	4502	WTC11 differentiation to endothelial cells (Engreitz)	MULTI-seq	Human		syn52289190	syn52335530	syn52292008	syn52291466	In progress
+mcginnis_dataset0_cluster4	CharacterizationMcGinnis_Dataset0	WTC11 hiPSC endothelial differentiation t3 state 2	1389	5501	4266	WTC11 differentiation to endothelial cells (Engreitz)	MULTI-seq	Human		syn52289192	syn52335531	syn52292008	syn52291466	In progress
+mcginnis_dataset0_cluster5	CharacterizationMcGinnis_Dataset0	WTC11 hiPSC endothelial differentiation t3 state 1	1286	6213	4602	WTC11 differentiation to endothelial cells (Engreitz)	MULTI-seq	Human		syn52289193	syn52335532	syn52292008	syn52291466	In progress
+mcginnis_dataset0_cluster6	CharacterizationMcGinnis_Dataset0	WTC11 hiPSC endothelial differentiation t3 state 2	459	5150	4446	WTC11 differentiation to endothelial cells (Engreitz)	MULTI-seq	Human		syn52289194	syn52335533	syn52292008	syn52291466	In progress
+mcginnis_dataset1_cluster0	CharacterizationMcGinnis_Dataset1	K562	5607	6156	14957	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	MULTI-seq	Human		syn52293668	syn52335604	syn52293639	syn52292247	In progress
+mcginnis_dataset1_cluster1	CharacterizationMcGinnis_Dataset1	U20S	5359	5286	15208	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	MULTI-seq	Human		syn52293560	syn52335605	syn52293639	syn52292247	In progress
+mcginnis_dataset1_cluster2	CharacterizationMcGinnis_Dataset1	HAP1	4649	1800	6718	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	MULTI-seq	Human		syn52293570	syn52335606	syn52293639	syn52292247	In progress
+mcginnis_dataset1_cluster3	CharacterizationMcGinnis_Dataset1	HUDEP2	4599	4121	13346	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	MULTI-seq	Human		syn52293609	syn52335607	syn52293639	syn52292247	In progress
+mcginnis_dataset1_cluster4	CharacterizationMcGinnis_Dataset1	HL60	1643	2044	6889	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	MULTI-seq	Human		syn52293625	syn52335608	syn52293639	syn52292247	In progress
+mcginnis_dataset1_cluster5	CharacterizationMcGinnis_Dataset1	HUDEP2	285	4515	6080	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	MULTI-seq	Human		syn52293628	syn52335609	syn52293639	syn52292247	In progress
+mcginnis_dataset1_cluster6	CharacterizationMcGinnis_Dataset1	HL60	130	2171	7039	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	MULTI-seq	Human		syn52293629	syn52335610	syn52293639	syn52292247	In progress
+mcginnis_dataset10_cluster0	CharacterizationMcGinnis_Dataset10	teloHAEC-CRISPRi	16299	8886	10916	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	MULTI-seq	Human		syn52297853	syn52339782	syn52361747	syn52293716	In progress
+mcginnis_dataset10_cluster1	CharacterizationMcGinnis_Dataset10	Jurkat	10528	5379	3741	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	MULTI-seq	Human		syn52297894	syn52339783	syn52361747	syn52293716	In progress
+mcginnis_dataset10_cluster2	CharacterizationMcGinnis_Dataset10	K562-CRISPRi	8625	7191	6808	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	MULTI-seq	Human		syn52297896	syn52339784	syn52361747	syn52293716	In progress
+mcginnis_dataset10_cluster3	CharacterizationMcGinnis_Dataset10	Jurkat stimulated	6822	5328	4068	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	MULTI-seq	Human		syn52297909	syn52339786	syn52361747	syn52293716	In progress
+mcginnis_dataset10_cluster4	CharacterizationMcGinnis_Dataset10	teloHAEC-CRISPRi	4056	7605	8808	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	MULTI-seq	Human		syn52297921	syn52339789	syn52361747	syn52293716	In progress
+mcginnis_dataset10_cluster5	CharacterizationMcGinnis_Dataset10	THP1	3537	4645	4722	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	MULTI-seq	Human		syn52297924	syn52339790	syn52361747	syn52293716	In progress
+mcginnis_dataset10_cluster6	CharacterizationMcGinnis_Dataset10	THP1	3377	4809	4773	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	MULTI-seq	Human		syn52297927	syn52339791	syn52361747	syn52293716	In progress
+mcginnis_dataset10_cluster7	CharacterizationMcGinnis_Dataset10	teloHAEC-CRISPRi	1767	10160	12102	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	MULTI-seq	Human		syn52297941	syn52339795	syn52361747	syn52293716	In progress
+mcginnis_dataset10_cluster8	CharacterizationMcGinnis_Dataset10	THP1	346	2348	3873	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	MULTI-seq	Human		syn52297942	syn52339796	syn52361747	syn52293716	In progress
+mcginnis_dataset2_cluster0	CharacterizationMcGinnis_Dataset2	teloHAEC +TNF 24hr	4519	4428	13496	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	MULTI-seq	Human		syn52291178	syn52335560	syn52294133	syn52361245	In progress
+mcginnis_dataset2_cluster1	CharacterizationMcGinnis_Dataset2	teloHAEC +TNF 0hr	3918	3865	11713	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	MULTI-seq	Human		syn52291194	syn52335561	syn52294133	syn52361245	In progress
+mcginnis_dataset2_cluster2	CharacterizationMcGinnis_Dataset2	teloHAEC +TNF 4hr	3523	4127	12119	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	MULTI-seq	Human		syn52291209	syn52335562	syn52294133	syn52361245	In progress
+mcginnis_dataset2_cluster3	CharacterizationMcGinnis_Dataset2	teloHAEC +TNF 4hr	1923	5097	15759	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	MULTI-seq	Human		syn52291223	syn52335563	syn52294133	syn52361245	In progress
+mcginnis_dataset2_cluster4	CharacterizationMcGinnis_Dataset2	teloHAEC +TNF 24hr	1688	4970	13198	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	MULTI-seq	Human		syn52291236	syn52335564	syn52294133	syn52361245	In progress
+mcginnis_dataset2_cluster5	CharacterizationMcGinnis_Dataset2	teloHAEC +TNF 0hr	1470	5349	16767	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	MULTI-seq	Human		syn52291240	syn52335565	syn52294133	syn52361245	In progress
+mcginnis_dataset2_cluster6	CharacterizationMcGinnis_Dataset2	teloHAEC +TNF 0hr	855	5108	13404	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	MULTI-seq	Human		syn52291244	syn52335566	syn52294133	syn52361245	In progress
+mcginnis_dataset3_cluster0	CharacterizationMcGinnis_Dataset3	WTC11 cardiomyocyte differentiation t1 state 1	6301	12517	20618	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291563	syn52339466		syn52298033	In progress
+mcginnis_dataset3_cluster1	CharacterizationMcGinnis_Dataset3	H9 hESC cardiomyocyte differentiation t2 state 1	5213	9456	5630	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291580	syn52339467		syn52298033	In progress
+mcginnis_dataset3_cluster10	CharacterizationMcGinnis_Dataset3	H9 hESC cardiomyocyte differentiation t1 state 2	1638	3005	9523	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291742	syn52339480		syn52298033	In progress
+mcginnis_dataset3_cluster11	CharacterizationMcGinnis_Dataset3	WTC11 cardiomyocyte differentiation t1 state 2	1123	12240	19026	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291752	syn52339481		syn52298033	In progress
+mcginnis_dataset3_cluster12	CharacterizationMcGinnis_Dataset3	WTC11 cardiomyocyte differentiation t1 state 2	1102	12313	20887	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291769	syn52339483		syn52298033	In progress
+mcginnis_dataset3_cluster13	CharacterizationMcGinnis_Dataset3	H9 hESC cardiomyocyte differentiation t2 state 3	1087	3092	10377	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291773	syn52339484		syn52298033	In progress
+mcginnis_dataset3_cluster14	CharacterizationMcGinnis_Dataset3	WTC11 cardiomyocyte differentiation t3 state 2	992	7305	6909	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291776	syn52339485		syn52298033	In progress
+mcginnis_dataset3_cluster15	CharacterizationMcGinnis_Dataset3	WTC11 cardiomyocyte differentiation t3 state 3	727	5771	8937	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291778	syn52339486		syn52298033	In progress
+mcginnis_dataset3_cluster16	CharacterizationMcGinnis_Dataset3	H9 hESC cardiomyocyte differentiation t2 state 2	574	2624	8566	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291780	syn52339487		syn52298033	In progress
+mcginnis_dataset3_cluster17	CharacterizationMcGinnis_Dataset3	unknown 1	298	4076	11396	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291782	syn52339488		syn52298033	In progress
+mcginnis_dataset3_cluster18	CharacterizationMcGinnis_Dataset3	unknown 2	149	5230	10588	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291783	syn52339489		syn52298033	In progress
+mcginnis_dataset3_cluster2	CharacterizationMcGinnis_Dataset3	HEPG2 wandwithout serum	5160	14979	20934	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291636	syn52339471		syn52298033	In progress
+mcginnis_dataset3_cluster3	CharacterizationMcGinnis_Dataset3	H9 hESC cardiomyocyte differentiation t1 state 1	4735	5988	9915	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291663	syn52339473		syn52298033	In progress
+mcginnis_dataset3_cluster4	CharacterizationMcGinnis_Dataset3	WTC11 cardiomyocyte differentiation t2 state 1	4357	4891	9873	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291687	syn52339474		syn52298033	In progress
+mcginnis_dataset3_cluster5	CharacterizationMcGinnis_Dataset3	H9 hESC cardiomyocyte differentiation t1 state 2	3197	2827	8813	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291696	syn52339475		syn52298033	In progress
+mcginnis_dataset3_cluster6	CharacterizationMcGinnis_Dataset3	WTC11 cardiomyocyte differentiation t3 state 1	2948	4646	8776	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291713	syn52339476		syn52298033	In progress
+mcginnis_dataset3_cluster7	CharacterizationMcGinnis_Dataset3	WTC11 cardiomyocyte differentiation t2 state 2	2910	3342	10037	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291721	syn52339477		syn52298033	In progress
+mcginnis_dataset3_cluster8	CharacterizationMcGinnis_Dataset3	H9 hESC cardiomyocyte differentiation t2 state 2	2328	2496	8958	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291728	syn52339478		syn52298033	In progress
+mcginnis_dataset3_cluster9	CharacterizationMcGinnis_Dataset3	H9 hESC cardiomyocyte differentiation t1and2	1871	3034	11024	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	MULTI-seq	Human		syn52291736	syn52339479		syn52298033	In progress
+mcginnis_dataset4_cluster0	CharacterizationMcGinnis_Dataset4	WTC11 macrophage m1	4848	3856	5054	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294098	syn52335691	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster1	CharacterizationMcGinnis_Dataset4	WTC11 macrophage cholesterol state 1	4186	2693	4894	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294100	syn52335692	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster10	CharacterizationMcGinnis_Dataset4	WTC11 macrophage mitotic	2949	0	0	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294123	syn52335701	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster11	CharacterizationMcGinnis_Dataset4	WTC11 macrophage m2	2766	0	0	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294130	syn52335702	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster12	CharacterizationMcGinnis_Dataset4	WTC11 macrophage precursor	2670	0	0	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294131	syn52335703	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster13	CharacterizationMcGinnis_Dataset4	WTC11 macrophage m0 m2	2250	0	0	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294132	syn52335704	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster2	CharacterizationMcGinnis_Dataset4	WTC11 macrophage m0 state 2	2133	2947	4799	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294104	syn52335693	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster3	CharacterizationMcGinnis_Dataset4	WTC11 macrophage precursor	1562	1927	4073	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294107	syn52335694	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster4	CharacterizationMcGinnis_Dataset4	WTC11 macrophage m1	694	3261	5279	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294109	syn52335695	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster5	CharacterizationMcGinnis_Dataset4	WTC11 macrophage cholesterol state 2	527	2868	4550	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294111	syn52335696	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster6	CharacterizationMcGinnis_Dataset4	WTC11 macrophage m2	4122	2948	4937	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294114	syn52335697	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster7	CharacterizationMcGinnis_Dataset4	WTC11 macrophage m1	3903	3489	4755	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294115	syn52335698	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster8	CharacterizationMcGinnis_Dataset4	WTC11 macrophage m0 state 1	3582	2435	5002	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294117	syn52335699	syn52361774	syn52293730	In progress
+mcginnis_dataset4_cluster9	CharacterizationMcGinnis_Dataset4	WTC11 macrophage m2	3474	0	0	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	MULTI-seq	Human		syn52294118	syn52335700	syn52361774	syn52293730	In progress
+mcginnis_dataset5_cluster0	CharacterizationMcGinnis_Dataset5	H1 gastruloid state 1	9551	14632	11063	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52298050	syn52339829	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster1	CharacterizationMcGinnis_Dataset5	H9 neuron t1	8590	4413	11719	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52298058	syn52339830	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster10	CharacterizationMcGinnis_Dataset5	H1 gastruloid state 2	1676	2585	6125	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52320791	syn52339846	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster11	CharacterizationMcGinnis_Dataset5	WTC11 NGN2 neuron	552	9092	6303	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52320793	syn52339847	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster12	CharacterizationMcGinnis_Dataset5	HEK293T	412	4401	7699	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52320801	syn52339849	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster13	CharacterizationMcGinnis_Dataset5	WTC11 NGN2 neuron	386	8771	6408	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52320802	syn52339850	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster14	CharacterizationMcGinnis_Dataset5	H1 neuron t2 t3	372	5692	13416	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52320809	syn52339853	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster15	CharacterizationMcGinnis_Dataset5	H1 neuron t1 t2 t3	350	343	3071	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52320814	syn52339854	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster16	CharacterizationMcGinnis_Dataset5	H9 neuron t1	222	16507	20744	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52320825	syn52339855	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster2	CharacterizationMcGinnis_Dataset5	H1 gastruloid state 2	7481	4957	6860	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52298060	syn52339831	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster3	CharacterizationMcGinnis_Dataset5	H9 neuron t1	6829	6664	12104	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52298148	syn52339832	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster4	CharacterizationMcGinnis_Dataset5	H1 neuron t1 t2 t3	6011	505	8413	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52300530	syn52339835	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster5	CharacterizationMcGinnis_Dataset5	H9 neuron t1	5821	9411	16278	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52301340	syn52339836	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster6	CharacterizationMcGinnis_Dataset5	HEK293T	5334	11148	9277	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52301860	syn52339839	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster7	CharacterizationMcGinnis_Dataset5	WTC11 NGN2 neuron	3863	8033	5630	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52301923	syn52339841	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster8	CharacterizationMcGinnis_Dataset5	H1 gastruloid state 1	3239	22235	15827	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52320781	syn52339842	syn52361741	syn52297702	In progress
+mcginnis_dataset5_cluster9	CharacterizationMcGinnis_Dataset5	H1 gastruloid state 1	2739	8254	10671	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	MULTI-seq	Human		syn52320786	syn52339845	syn52361741	syn52297702	In progress
+mcginnis_dataset6_cluster0	CharacterizationMcGinnis_Dataset6	H1 pancreas S6 state 1	11339	894	10920	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52320590	syn52357226	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster1	CharacterizationMcGinnis_Dataset6	H1 pancreas S6 state 1	10271	1772	9756	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319733	syn52343421	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster10	CharacterizationMcGinnis_Dataset6	H1 pancreas S1	3102	3302	12406	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319256	syn52343430	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster11	CharacterizationMcGinnis_Dataset6	H1 pancreas S5	2149	2918	10263	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319327	syn52343431	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster12	CharacterizationMcGinnis_Dataset6	H1 pancreas S4 S5 S6	1929	1698	12929	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319331	syn52343432	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster13	CharacterizationMcGinnis_Dataset6	H1 pancreas S6 state 1	1871	799	8709	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319344	syn52343433	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster14	CharacterizationMcGinnis_Dataset6	H1 pancreas S4 state 2	1421	2438	13985	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319352	syn52343434	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster15	CharacterizationMcGinnis_Dataset6	H1 pancreas S4 state 3	1163	2282	14182	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319356	syn52343435	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster16	CharacterizationMcGinnis_Dataset6	H1 pancreas S6 state 1	974	3357	13675	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319359	syn52343436	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster17	CharacterizationMcGinnis_Dataset6	H1 pancreas S62D3D	853	1390	9965	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319361	syn52343439	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster18	CharacterizationMcGinnis_Dataset6	H1 pancreas S5	711	2247	11489	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319364	syn52343440	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster19	CharacterizationMcGinnis_Dataset6	H1 pancreas S3 S4	400	3703	16436	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319450	syn52343441	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster2	CharacterizationMcGinnis_Dataset6	H1 pancreas S6 state 2	9447	3227	13732	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319657	syn52343422	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster20	CharacterizationMcGinnis_Dataset6	minor	382	2226	14238	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319461	syn52343442	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster21	CharacterizationMcGinnis_Dataset6	minor	255	2885	11005	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319464	syn52343443	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster22	CharacterizationMcGinnis_Dataset6	minor	2	584	19606	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319465	syn52343444	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster23	CharacterizationMcGinnis_Dataset6	minor	169	912	10557	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319466	syn52343445	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster24	CharacterizationMcGinnis_Dataset6	minor	2	1302	6936	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319467	syn52343446	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster25	CharacterizationMcGinnis_Dataset6	minor	2	821	5589	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319468	syn52343447	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster3	CharacterizationMcGinnis_Dataset6	H1 pancreas S52D	6258	3148	12639	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319531	syn52343423	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster4	CharacterizationMcGinnis_Dataset6	H1 pancreas S5	5833	3372	13400	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319553	syn52343424	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster5	CharacterizationMcGinnis_Dataset6	H1 pancreas S6 state 2	5289	2407	12457	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319606	syn52343425	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster6	CharacterizationMcGinnis_Dataset6	H1 pancreas S5	4073	3679	11348	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52318989	syn52343426	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster7	CharacterizationMcGinnis_Dataset6	H1 pancreas S52D3D	3759	1421	11011	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319128	syn52343427	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster8	CharacterizationMcGinnis_Dataset6	H1 pancreas S3	3628	2469	15798	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319220	syn52343428	syn52361745	syn52293810	In progress
+mcginnis_dataset6_cluster9	CharacterizationMcGinnis_Dataset6	H1 pancreas S4 state 1	3347	514	7718	H1 pancreatic differentiation, 7 timepoints (Huangfu)	MULTI-seq	Human		syn52319243	syn52343429	syn52361745	syn52293810	In progress
+mcginnis_dataset7_human_cluster0	CharacterizationMcGinnis_Dataset7_human	hCASM SMBM no serum	7617	9508	5277	hCASM, 5 conditions (Quertermous)	MULTI-seq	Human		syn52298062	syn52339544	syn52361742	syn52293809	In progress
+mcginnis_dataset7_human_cluster1	CharacterizationMcGinnis_Dataset7_human	hCASM DMEM no serum	6745	12080	4562	hCASM, 5 conditions (Quertermous)	MULTI-seq	Human		syn52316242	syn52339546	syn52361742	syn52293809	In progress
+mcginnis_dataset7_human_cluster2	CharacterizationMcGinnis_Dataset7_human	hCASM calcification d6 d10	5828	7579	6681	hCASM, 5 conditions (Quertermous)	MULTI-seq	Human		syn52316529	syn52339547	syn52361742	syn52293809	In progress
+mcginnis_dataset7_human_cluster3	CharacterizationMcGinnis_Dataset7_human	hCASM SMBM serum	1626	10000	3651	hCASM, 5 conditions (Quertermous)	MULTI-seq	Human		syn52316661	syn52361247	syn52361742	syn52293809	In progress
+mcginnis_dataset7_human_cluster4	CharacterizationMcGinnis_Dataset7_human	hCASM SMBM no serum	681	11255	6380	hCASM, 5 conditions (Quertermous)	MULTI-seq	Human		syn52316708	syn52339548	syn52361742	syn52293809	In progress
+mcginnis_dataset7_human_cluster5	CharacterizationMcGinnis_Dataset7_human	hCASM SMBM no serum	457	6252	4544	hCASM, 5 conditions (Quertermous)	MULTI-seq	Human		syn52316730	syn52339550	syn52361742	syn52293809	In progress
+mcginnis_dataset7_mouse_cluster0	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d4	3590	1643	2300	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319576	syn52335733	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster1	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d6 d8	2598	2142	1964	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319577	syn52335734	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster10	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d8 d10 d12	218	1592	1531	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319588	syn52335744	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster11	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d10 d12	85	2383	1432	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319589	syn52335745	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster12	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d4 d6 d8 d10 d12 state 2	58	2368	1968	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319591	syn52335746	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster2	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d4 d6 d8 d10 d12 state 1	2222	2575	2090	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319580	syn52335735	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster3	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d8 d10 d12	1466	1614	1820	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319581	syn52335736	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster4	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d10 d12	973	1821	1485	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319582	syn52335738	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster5	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d4 d6 d8 d10 d12 state 2	749	2656	1875	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319583	syn52335739	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster6	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d4	605	2215	2231	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319584	syn52335740	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster7	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d4	564	2313	2510	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319585	syn52335741	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster8	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d6 d8	483	2699	1738	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319586	syn52335742	syn52361744	syn52319593	In progress
+mcginnis_dataset7_mouse_cluster9	CharacterizationMcGinnis_Dataset7_mouse	WD44 gastruloid d4 d6 d8 d10 d12 state 2	330	2153	1937	WD44 gastruloid differentiation (Shendure)	MULTI-seq	Mouse		syn52319587	syn52335743	syn52361744	syn52319593	In progress
+mcginnis_dataset9_cluster0	CharacterizationMcGinnis_Dataset9	B cell Day 3	18878	10150	9427	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52328473	syn52341262	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster1	CharacterizationMcGinnis_Dataset9	B cell Day 2-6	15149	1081	2981	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52297425	syn52341263	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster10	CharacterizationMcGinnis_Dataset9	B cell Day 2,3	1429	5824	7315	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52326949	syn52341278	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster11	CharacterizationMcGinnis_Dataset9	B cell Day 3,5	1094	7555	4810	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52327039	syn52341281	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster12	CharacterizationMcGinnis_Dataset9	B cell Day 3	855	6472	9737	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52327155	syn52341285	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster13	CharacterizationMcGinnis_Dataset9	B cell Day 0	556	1454	4607	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52327180	syn52341286	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster2	CharacterizationMcGinnis_Dataset9	B cell Day 3	12993	6866	7867	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52297446	syn52341265	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster3	CharacterizationMcGinnis_Dataset9	B cell Day 5	11647	9054	12546	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52297465	syn52341266	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster4	CharacterizationMcGinnis_Dataset9	B cell Day 2	8187	7469	10169	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52297545	syn52341267	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster5	CharacterizationMcGinnis_Dataset9	B cell Day 6	6713	4548	7493	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52297565	syn52341270	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster6	CharacterizationMcGinnis_Dataset9	B cell Day 3	6038	9346	8846	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52297570	syn52341271	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster7	CharacterizationMcGinnis_Dataset9	B cell Day 5,6	4842	6351	9395	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52297576	syn52341274	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster8	CharacterizationMcGinnis_Dataset9	B cell Day 6	2810	7086	10185	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52297578	syn52341276	syn52361746	syn52293814	In progress
+mcginnis_dataset9_cluster9	CharacterizationMcGinnis_Dataset9	B cell Day 1	1670	2513	5673	Primary B-cell in vitro differentiation	MULTI-seq	Human		syn52326821	syn52341277	syn52361746	syn52293814	In progress
+ENCODEGM12878_Cluster0	ENCODE_GM12878_10X_scATACseq	GM12878	5974	0	28802	GM12878 nuclear fraction	10x snATAC	Human		syn52271002	syn52271005			In progress
+ENCODEK562_Cluster0	ENCODE_K562_10X_scATACseq	K562	4525	0	29169	K562 cell line nuclear fraction	10x snATAC	Human		syn52270990	syn52270991			In progress
+ENCSR618WVK_Cluster0	ENCODE-Liver-10XMultiome	Cholangiocyte	598	()	7541	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	10x Multiome	Human		syn52297903	syn52297904		syn52343790	In progress
+ENCSR618WVK_Cluster1	ENCODE-Liver-10XMultiome	Endothelial cell	899	()	4566	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	10x Multiome	Human		syn52297900	syn52297901		syn52343790	In progress
+ENCSR618WVK_Cluster2	ENCODE-Liver-10XMultiome	Fibroblast	632	()	8898	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	10x Multiome	Human		syn52297912	syn52297913		syn52343790	In progress
+ENCSR618WVK_Cluster3	ENCODE-Liver-10XMultiome	Hepatocyte	8480	()	8488	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	10x Multiome	Human		syn52297945	syn52297946		syn52343790	In progress
+ENCSR618WVK_Cluster4	ENCODE-Liver-10XMultiome	Macrophage	407	()	6656	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	10x Multiome	Human		syn52297948	syn52297951		syn52343790	In progress
+ENCSR618WVK_Cluster5	ENCODE-Liver-10XMultiome	T cell	163	()	5486	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	10x Multiome	Human		syn52297907	syn52297906		syn52343790	In progress
+ENCSR023FME_Cluster1	ENCSR023FME	Type I skeletal myocyte	3528	()	4172	Homo sapiens gastrocnemius medialis tissue female adult (51 years)	sciATAC-seq	Human	syn52188510	syn52249910	syn52249904			In progress
+ENCSR023FME_Cluster2	ENCSR023FME	Fibroblast	618	()	2623	Homo sapiens gastrocnemius medialis tissue female adult (51 years)	sciATAC-seq	Human	syn52188518	syn52249917	syn52249912			In progress
+ENCSR023FME_Cluster3	ENCSR023FME	Basal epithelial cell	3272	()	3909	Homo sapiens gastrocnemius medialis tissue female adult (51 years)	sciATAC-seq	Human	syn52188865	syn52249919	syn52249920			In progress
+ENCSR023FME_Cluster4	ENCSR023FME	Endothelial cell	670	()	2487	Homo sapiens gastrocnemius medialis tissue female adult (51 years)	sciATAC-seq	Human	syn52188897	syn52249922	syn52249923			In progress
+ENCSR052DKH_Cluster1	ENCSR052DKH	Tuft cell	246	()	4724	Homo sapiens Peyer's patch tissue female adult (51 years)	sciATAC-seq	Human	syn52186029	syn52237042	syn52237016			In progress
+ENCSR052DKH_Cluster2	ENCSR052DKH	Macrophage	361	()	6132	Homo sapiens Peyer's patch tissue female adult (51 years)	sciATAC-seq	Human	syn52186070	syn52237061	syn52237062			In progress
+ENCSR052DKH_Cluster3	ENCSR052DKH	T lymphocyte	198	()	6136	Homo sapiens Peyer's patch tissue female adult (51 years)	sciATAC-seq	Human	syn52187558	syn52237050	syn52237051			In progress
+ENCSR052DKH_Cluster4	ENCSR052DKH	Vascular smooth muscle cell	1243	()	7179	Homo sapiens Peyer's patch tissue female adult (51 years)	sciATAC-seq	Human	syn52187733	syn52237058	syn52237059			In progress
+ENCSR181XXQ_Cluster1	ENCSR181XXQ	Adipocyte	541	()	3016	Homo sapiens omental fat pad tissue female adult (51 years)	sciATAC-seq	Human	syn52187471	syn52249767	syn52249766			In progress
+ENCSR181XXQ_Cluster2	ENCSR181XXQ	Vascular smooth muscle cell	732	()	2448	Homo sapiens omental fat pad tissue female adult (51 years)	sciATAC-seq	Human	syn52187479	syn52249770	syn52249771			In progress
+ENCSR181XXQ_Cluster3	ENCSR181XXQ	Endothelial cell	527	()	2283	Homo sapiens omental fat pad tissue female adult (51 years)	sciATAC-seq	Human	syn52187485	syn52249779	syn52249776			In progress
+ENCSR181XXQ_Cluster4	ENCSR181XXQ	Mesothelial cell	872	()	2532	Homo sapiens omental fat pad tissue female adult (51 years)	sciATAC-seq	Human	syn52187496	syn52249774	syn52249773			In progress
+ENCSR205TUH_Cluster1	ENCSR205TUH	Vascular smooth muscle cell	1986	()	2582	Homo sapiens tibial nerve tissue female adult (51 years)	sciATAC-seq	Human	syn52186305	syn52249557	syn52249558			In progress
+ENCSR205TUH_Cluster2	ENCSR205TUH	Schwann cell	535	()	2370	Homo sapiens tibial nerve tissue female adult (51 years)	sciATAC-seq	Human	syn52186309	syn52249553	syn52249554			In progress
+ENCSR261TQO_Cluster1	ENCSR261TQO	Endothelial cell	286	()	3320	Homo sapiens body of pancreas tissue female adult (51 years)	sciATAC-seq	Human	syn52187311	syn52249743	syn52249742			In progress
+ENCSR261TQO_Cluster2	ENCSR261TQO	Enteroendocrine cell	183	()	4624	Homo sapiens body of pancreas tissue female adult (51 years)	sciATAC-seq	Human	syn52187324	syn52249763	syn52249764			In progress
+ENCSR261TQO_Cluster3	ENCSR261TQO	Ductal cell	529	()	3741	Homo sapiens body of pancreas tissue female adult (51 years)	sciATAC-seq	Human	syn52187345	syn52249740	syn52249739			In progress
+ENCSR261TQO_Cluster4	ENCSR261TQO	T lymphocyte	453	()	2368	Homo sapiens body of pancreas tissue female adult (51 years)	sciATAC-seq	Human	syn52187350	syn52249757	syn52249756			In progress
+ENCSR261TQO_Cluster5	ENCSR261TQO	Macrophage	950	()	3111	Homo sapiens body of pancreas tissue female adult (51 years)	sciATAC-seq	Human	syn52187358	syn52249761	syn52249760			In progress
+ENCSR261TQO_Cluster6	ENCSR261TQO	Acinar cell	5306	()	4063	Homo sapiens body of pancreas tissue female adult (51 years)	sciATAC-seq	Human	syn52187454	syn52249753	syn52249754			In progress
+ENCSR302CMX_Cluster1	ENCSR302CMX	Fibroblast	1320	()	4002	Homo sapiens tibial artery tissue male adult (54 years)	sciATAC-seq	Human	syn52188032	syn52249879	syn52249876			In progress
+ENCSR302CMX_Cluster2	ENCSR302CMX	Vascular smooth muscle cell	2283	()	3090	Homo sapiens tibial artery tissue male adult (54 years)	sciATAC-seq	Human	syn52188584	syn52249892	syn52249893			In progress
+ENCSR302CMX_Cluster3	ENCSR302CMX	Smooth muscle cell	131	()	3222	Homo sapiens tibial artery tissue male adult (54 years)	sciATAC-seq	Human	syn52188605	syn52249887	syn52249886			In progress
+ENCSR302CMX_Cluster4	ENCSR302CMX	Endothelial cell	550	()	2845	Homo sapiens tibial artery tissue male adult (54 years)	sciATAC-seq	Human	syn52188616	syn52249881	syn52249884			In progress
+ENCSR367GKP_Cluster1	ENCSR367GKP	Fibroblast	1861	()	3827	Homo sapiens sigmoid colon tissue male adult (37 years)	sciATAC-seq	Human	syn52186106	syn52249519	syn52249520			In progress
+ENCSR367GKP_Cluster2	ENCSR367GKP	Schwann cell	618	()	2788	Homo sapiens sigmoid colon tissue male adult (37 years)	sciATAC-seq	Human	syn52186111	syn52249529	syn52249530			In progress
+ENCSR367GKP_Cluster3	ENCSR367GKP	Smooth muscle cell	853	()	3006	Homo sapiens sigmoid colon tissue male adult (37 years)	sciATAC-seq	Human	syn52186149	syn52249523	syn52249522			In progress
+ENCSR367GKP_Cluster4	ENCSR367GKP	Vascular smooth muscle cell	4632	()	4793	Homo sapiens sigmoid colon tissue male adult (37 years)	sciATAC-seq	Human	syn52186241	syn52249547	syn52249548			In progress
+ENCSR367GKP_Cluster5	ENCSR367GKP	Macrophage	343	()	2844	Homo sapiens sigmoid colon tissue male adult (37 years)	sciATAC-seq	Human	syn52186256	syn52249551	syn52249550			In progress
+ENCSR397LYX_Cluster1	ENCSR397LYX	Vascular smooth muscle cell	927	()	2949	Homo sapiens suprapubic skin tissue female adult (51 years)	sciATAC-seq	Human	syn52186076	syn52248911	syn52248912			In progress
+ENCSR397LYX_Cluster2	ENCSR397LYX	Endothelial cell	618	()	2640	Homo sapiens suprapubic skin tissue female adult (51 years)	sciATAC-seq	Human	syn52186078	syn52248904	syn52248903			In progress
+ENCSR397LYX_Cluster3	ENCSR397LYX	Basal epithelial cell	1149	()	2854	Homo sapiens suprapubic skin tissue female adult (51 years)	sciATAC-seq	Human	syn52186083	syn52248907	syn52248908			In progress
+ENCSR411MLR_Cluster1	ENCSR411MLR	Macrophage	760	()	3877	Homo sapiens ascending aorta tissue female adult (51 years)	sciATAC-seq	Human	syn52186776	syn52249634	syn52249633			In progress
+ENCSR411MLR_Cluster2	ENCSR411MLR	T lymphocyte	342	()	3003	Homo sapiens ascending aorta tissue female adult (51 years)	sciATAC-seq	Human	syn52186777	syn52249624	syn52249625			In progress
+ENCSR411MLR_Cluster3	ENCSR411MLR	Vascular smooth muscle cell.1	282	()	3857	Homo sapiens ascending aorta tissue female adult (51 years)	sciATAC-seq	Human	syn52186778	syn52249627	syn52249628			In progress
+ENCSR411MLR_Cluster4	ENCSR411MLR	Endothelial cell	325	()	3990	Homo sapiens ascending aorta tissue female adult (51 years)	sciATAC-seq	Human	syn52186779	syn52249630	syn52249631			In progress
+ENCSR411MLR_Cluster5	ENCSR411MLR	Vascular smooth muscle cell.2	6664	()	5472	Homo sapiens ascending aorta tissue female adult (51 years)	sciATAC-seq	Human	syn52187034	syn52249669	syn52249670			In progress
+ENCSR453TVZ_Cluster1	ENCSR453TVZ	Basal epithelial cell.1	213	()	6036	Homo sapiens esophagus squamous epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52187519	syn52249841	syn52249840			In progress
+ENCSR453TVZ_Cluster2	ENCSR453TVZ	Basal epithelial cell.2	1466	()	4310	Homo sapiens esophagus squamous epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52187556	syn52249828	syn52249805			In progress
+ENCSR453TVZ_Cluster3	ENCSR453TVZ	Basal epithelial cell.3	1511	()	6642	Homo sapiens esophagus squamous epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52187741	syn52249803	syn52249799			In progress
+ENCSR453TVZ_Cluster4	ENCSR453TVZ	T lymphocyte	3001	()	3174	Homo sapiens esophagus squamous epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52188365	syn52249795	syn52249797			In progress
+ENCSR455CVZ_Cluster1	ENCSR455CVZ	Endothelial cell	320	()	4708	Homo sapiens uterus tissue female adult (51 years)	sciATAC-seq	Human	syn52187781	syn52249902	syn52249899			In progress
+ENCSR455CVZ_Cluster2	ENCSR455CVZ	Vascular smooth muscle cell	847	()	3752	Homo sapiens uterus tissue female adult (51 years)	sciATAC-seq	Human	syn52187909	syn52249897	syn52249895			In progress
+ENCSR474TGL_Cluster1	ENCSR474TGL	Endothelial cell	677	()	2973	Homo sapiens lower leg skin tissue female adult (51 years)	sciATAC-seq	Human	syn52188947	syn52249963	syn52249964			In progress
+ENCSR474TGL_Cluster2	ENCSR474TGL	Fibroblast	1771	()	2901	Homo sapiens lower leg skin tissue female adult (51 years)	sciATAC-seq	Human	syn52189082	syn52249960	syn52249957			In progress
+ENCSR474TGL_Cluster3	ENCSR474TGL	Basal epithelial cell	985	()	3425	Homo sapiens lower leg skin tissue female adult (51 years)	sciATAC-seq	Human	syn52189149	syn52249970	syn52249969			In progress
+ENCSR474TGL_Cluster4	ENCSR474TGL	Macrophage	592	()	2509	Homo sapiens lower leg skin tissue female adult (51 years)	sciATAC-seq	Human	syn52189188	syn52249967	syn52249966			In progress
+ENCSR506YMX_Cluster1	ENCSR506YMX	Luminal epithelial cell	2053	()	4021	Homo sapiens transverse colon tissue female adult (51 years)	sciATAC-seq	Human	syn52186640	syn52249609	syn52249610			In progress
+ENCSR506YMX_Cluster2	ENCSR506YMX	Vascular smooth muscle cell	1839	()	4337	Homo sapiens transverse colon tissue female adult (51 years)	sciATAC-seq	Human	syn52186715	syn52249620	syn52249621			In progress
+ENCSR506YMX_Cluster3	ENCSR506YMX	Tuft cell	2273	()	3596	Homo sapiens transverse colon tissue female adult (51 years)	sciATAC-seq	Human	syn52186726	syn52249616	syn52249617			In progress
+ENCSR506YMX_Cluster4	ENCSR506YMX	Goblet cell	705	()	3696	Homo sapiens transverse colon tissue female adult (51 years)	sciATAC-seq	Human	syn52186729	syn52249612	syn52249613			In progress
+ENCSR506YMX_Cluster5	ENCSR506YMX	T lymphocyte	554	()	2423	Homo sapiens transverse colon tissue female adult (51 years)	sciATAC-seq	Human	syn52186735	syn52249607	syn52249605			In progress
+ENCSR538FPK_Cluster1	ENCSR538FPK	Fibroblast	2134	()	5159	Homo sapiens heart left ventricle tissue female adult (51 years)	sciATAC-seq	Human	syn52190193	syn52249986	syn52249987			In progress
+ENCSR538FPK_Cluster2	ENCSR538FPK	Endothelial cell	1233	()	3259	Homo sapiens heart left ventricle tissue female adult (51 years)	sciATAC-seq	Human	syn52190978	syn52250005	syn52250006			In progress
+ENCSR538FPK_Cluster3	ENCSR538FPK	T lymphocyte	170	()	2832	Homo sapiens heart left ventricle tissue female adult (51 years)	sciATAC-seq	Human	syn52190992	syn52250012	syn52250011			In progress
+ENCSR538FPK_Cluster4	ENCSR538FPK	Smooth muscle cell	1181	()	3881	Homo sapiens heart left ventricle tissue female adult (51 years)	sciATAC-seq	Human	syn52191248	syn52250009	syn52250008			In progress
+ENCSR538FPK_Cluster5	ENCSR538FPK	Macrophage	997	()	3683	Homo sapiens heart left ventricle tissue female adult (51 years)	sciATAC-seq	Human	syn52191303	syn52250003	syn52250001			In progress
+ENCSR538FPK_Cluster6	ENCSR538FPK	Cardiomyocyte	2530	()	11893	Homo sapiens heart left ventricle tissue female adult (51 years)	sciATAC-seq	Human	syn52191664	syn52249999	syn52249989			In progress
+ENCSR660NEE_Cluster1	ENCSR660NEE	Fibroblast	2444	()	6532	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	sciATAC-seq	Human	syn52187139	syn52249698	syn52249695			In progress
+ENCSR660NEE_Cluster2	ENCSR660NEE	Vascular smooth muscle cell	2867	()	5463	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	sciATAC-seq	Human	syn52187209	syn52249710	syn52249700			In progress
+ENCSR660NEE_Cluster3	ENCSR660NEE	Mast cell	661	()	4114	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	sciATAC-seq	Human	syn52187215	syn52249692	syn52249693			In progress
+ENCSR660NEE_Cluster4	ENCSR660NEE	Schwann cell	578	()	5700	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	sciATAC-seq	Human	syn52187237	syn52249716	syn52249712			In progress
+ENCSR660NEE_Cluster5	ENCSR660NEE	Endothelial cell	376	()	4340	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	sciATAC-seq	Human	syn52187255	syn52249734	syn52249726			In progress
+ENCSR660NEE_Cluster6	ENCSR660NEE	Macrophage	607	()	4934	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	sciATAC-seq	Human	syn52187285	syn52249737	syn52249736			In progress
+ENCSR660NEE_Cluster7	ENCSR660NEE	T lymphocyte	416	()	3741	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	sciATAC-seq	Human	syn52187291	syn52249718	syn52249719			In progress
+ENCSR660NEE_Cluster8	ENCSR660NEE	Smooth muscle cell	534	()	5779	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	sciATAC-seq	Human	syn52187304	syn52249722	syn52249724			In progress
+ENCSR718WGE_Cluster1	ENCSR718WGE	Type II pneumocyte	3166	()	4061	Homo sapiens upper lobe of left lung tissue female adult (51 years)	sciATAC-seq	Human	syn52191067	syn52250034	syn52250028			In progress
+ENCSR718WGE_Cluster2	ENCSR718WGE	Macrophage	1797	()	4578	Homo sapiens upper lobe of left lung tissue female adult (51 years)	sciATAC-seq	Human	syn52191306	syn52250026	syn52250025			In progress
+ENCSR718WGE_Cluster3	ENCSR718WGE	Endothelial cell	550	()	7026	Homo sapiens upper lobe of left lung tissue female adult (51 years)	sciATAC-seq	Human	syn52191513	syn52250023	syn52250019			In progress
+ENCSR718WGE_Cluster4	ENCSR718WGE	T lymphocyte	1199	()	3552	Homo sapiens upper lobe of left lung tissue female adult (51 years)	sciATAC-seq	Human	syn52191528	syn52250016	syn52250017			In progress
+ENCSR776EOI_Cluster1	ENCSR776EOI	Fibroblast	1877	()	3736	Homo sapiens right atrium auricular region tissue female adult (51 years)	sciATAC-seq	Human	syn52190881	syn52250046	syn52250047			In progress
+ENCSR776EOI_Cluster2	ENCSR776EOI	Macrophage	1181	()	2919	Homo sapiens right atrium auricular region tissue female adult (51 years)	sciATAC-seq	Human	syn52190973	syn52250051	syn52250049			In progress
+ENCSR776EOI_Cluster3	ENCSR776EOI	Cardiomyocyte	712	()	3938	Homo sapiens right atrium auricular region tissue female adult (51 years)	sciATAC-seq	Human	syn52190998	syn52250040	syn52250039			In progress
+ENCSR776EOI_Cluster4	ENCSR776EOI	Mesothelial cell	877	()	6098	Homo sapiens right atrium auricular region tissue female adult (51 years)	sciATAC-seq	Human	syn52191280	syn52250037	syn52250036			In progress
+ENCSR796RXX_Cluster1	ENCSR796RXX	Follicular cell	8102	()	5393	Homo sapiens thyroid gland tissue female adult (51 years)	sciATAC-seq	Human	syn52189910	syn52249980	syn52249976			In progress
+ENCSR796RXX_Cluster2	ENCSR796RXX	Fibroblast	297	()	4138	Homo sapiens thyroid gland tissue female adult (51 years)	sciATAC-seq	Human	syn52189927	syn52249974	syn52249973			In progress
+ENCSR796RXX_Cluster3	ENCSR796RXX	Endothelial cell	335	()	3720	Homo sapiens thyroid gland tissue female adult (51 years)	sciATAC-seq	Human	syn52189938	syn52249983	syn52249982			In progress
+ENCSR822GXQ_Cluster1	ENCSR822GXQ	Endothelial cell	360	()	5752	Homo sapiens thoracic aorta tissue male adult (54 years)	sciATAC-seq	Human	syn52187739	syn52249855	syn52249854			In progress
+ENCSR822GXQ_Cluster2	ENCSR822GXQ	T lymphocyte	164	()	3329	Homo sapiens thoracic aorta tissue male adult (54 years)	sciATAC-seq	Human	syn52187742	syn52249873	syn52249874			In progress
+ENCSR822GXQ_Cluster3	ENCSR822GXQ	Macrophage	471	()	4606	Homo sapiens thoracic aorta tissue male adult (54 years)	sciATAC-seq	Human	syn52187832	syn52249851	syn52249852			In progress
+ENCSR822GXQ_Cluster4	ENCSR822GXQ	Vascular smooth muscle cell	4247	()	7137	Homo sapiens thoracic aorta tissue male adult (54 years)	sciATAC-seq	Human	syn52190735	syn52249865	syn52249859			In progress
+ENCSR822GXQ_Cluster5	ENCSR822GXQ	Basal epithelial cell	474	()	5122	Homo sapiens thoracic aorta tissue male adult (54 years)	sciATAC-seq	Human	syn52190749	syn52249845	syn52249843			In progress
+ENCSR822GXQ_Cluster6	ENCSR822GXQ	Fibroblast	742	()	6890	Homo sapiens thoracic aorta tissue male adult (54 years)	sciATAC-seq	Human	syn52190974	syn52249871	syn52249867			In progress
+ENCSR845QFX_Cluster1	ENCSR845QFX	Endothelial cell	426	()	3790	Homo sapiens breast epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52188629	syn52249949	syn52249948			In progress
+ENCSR845QFX_Cluster2	ENCSR845QFX	Luminal epithelial cell.1	1458	()	5927	Homo sapiens breast epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52188689	syn52249953	syn52249954			In progress
+ENCSR845QFX_Cluster3	ENCSR845QFX	Luminal epithelial cell.2	1341	()	6587	Homo sapiens breast epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52188706	syn52249939	syn52249940			In progress
+ENCSR845QFX_Cluster4	ENCSR845QFX	Luminal epithelial cell.3	446	()	4659	Homo sapiens breast epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52188709	syn52249946	syn52249945			In progress
+ENCSR845QFX_Cluster5	ENCSR845QFX	Fibroblast	451	()	5087	Homo sapiens breast epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52188713	syn52249943	syn52249942			In progress
+ENCSR845QFX_Cluster6	ENCSR845QFX	Vascular smooth muscle cell	3784	()	4889	Homo sapiens breast epithelium tissue female adult (51 years)	sciATAC-seq	Human	syn52189132	syn52249936	syn52249937			In progress
+ENCSR848EID_Cluster1	ENCSR848EID	Gastric chief cell	890	()	3162	Homo sapiens stomach tissue female adult (51 years)	sciATAC-seq	Human	syn52187039	syn52249680	syn52249682			In progress
+ENCSR848EID_Cluster2	ENCSR848EID	Macrophage	187	()	2682	Homo sapiens stomach tissue female adult (51 years)	sciATAC-seq	Human	syn52187041	syn52249685	syn52249686			In progress
+ENCSR848EID_Cluster3	ENCSR848EID	Luminal epithelial cell	164	()	2594	Homo sapiens stomach tissue female adult (51 years)	sciATAC-seq	Human	syn52187042	syn52249672	syn52249673			In progress
+ENCSR848EID_Cluster4	ENCSR848EID	T lymphocyte	638	()	2874	Homo sapiens stomach tissue female adult (51 years)	sciATAC-seq	Human	syn52187047	syn52249689	syn52249688			In progress
+ENCSR848EID_Cluster5	ENCSR848EID	Fibroblast	822	()	3205	Homo sapiens stomach tissue female adult (51 years)	sciATAC-seq	Human	syn52187050	syn52249677	syn52249678			In progress
+ENCSR868ZEI_Cluster1	ENCSR868ZEI	Mast cell	172	()	4334	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	sciATAC-seq	Human	syn52186312	syn52249565	syn52249564			In progress
+ENCSR868ZEI_Cluster2	ENCSR868ZEI	T lymphocyte	182	()	4019	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	sciATAC-seq	Human	syn52186316	syn52249579	syn52249580			In progress
+ENCSR868ZEI_Cluster3	ENCSR868ZEI	Macrophage	563	()	6340	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	sciATAC-seq	Human	syn52186349	syn52249597	syn52249595			In progress
+ENCSR868ZEI_Cluster4	ENCSR868ZEI	Vascular smooth muscle cell	1596	()	7859	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	sciATAC-seq	Human	syn52186397	syn52249603	syn52249599			In progress
+ENCSR868ZEI_Cluster5	ENCSR868ZEI	Endothelial cell	636	()	7340	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	sciATAC-seq	Human	syn52186420	syn52249567	syn52249568			In progress
+ENCSR868ZEI_Cluster6	ENCSR868ZEI	Schwann cell	324	()	5528	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	sciATAC-seq	Human	syn52186421	syn52249575	syn52249577			In progress
+ENCSR868ZEI_Cluster7	ENCSR868ZEI	Myofibroblast	78	()	7270	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	sciATAC-seq	Human	syn52186422	syn52249570	syn52249571			In progress
+ENCSR868ZEI_Cluster8	ENCSR868ZEI	Fibroblast	3326	()	8626	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	sciATAC-seq	Human	syn52186564	syn52249592	syn52249593			In progress
+ENCSR868ZEI_Cluster9	ENCSR868ZEI	Smooth muscle cell	464	()	6569	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	sciATAC-seq	Human	syn52186568	syn52249561	syn52249562			In progress
+GerminalCenter10xATAC_combined_Cluster1	GerminalCenter10X	Tcm CD8	225	()	4000	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295769	syn52320669	syn52320670			In progress
+GerminalCenter10xATAC_combined_Cluster10	GerminalCenter10X	Treg	322	()	6210	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295844	syn52320688	syn52320689			In progress
+GerminalCenter10xATAC_combined_Cluster11	GerminalCenter10X	LZ GC	1093	()	5718	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295851	syn52320690	syn52320691			In progress
+GerminalCenter10xATAC_combined_Cluster12	GerminalCenter10X	Naive T	542	()	2706	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295855	syn52320693	syn52320694			In progress
+GerminalCenter10xATAC_combined_Cluster13	GerminalCenter10X	Naive B	3137	()	845	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295860	syn52320695	syn52320696			In progress
+GerminalCenter10xATAC_combined_Cluster14	GerminalCenter10X	Tfh	889	()	3780	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295867	syn52320697	syn52320698			In progress
+GerminalCenter10xATAC_combined_Cluster2	GerminalCenter10X	DZ GC	2176	()	12400	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295808	syn52320671	syn52320672			In progress
+GerminalCenter10xATAC_combined_Cluster3	GerminalCenter10X	Activated B	3158	()	2902	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295823					In progress
+GerminalCenter10xATAC_combined_Cluster4	GerminalCenter10X	Dendritic	36	()	4702	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295824	syn52320673	syn52320674			In progress
+GerminalCenter10xATAC_combined_Cluster5	GerminalCenter10X	Plasmablasts	484	()	4626	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295829	syn52320675	syn52320676			In progress
+GerminalCenter10xATAC_combined_Cluster6	GerminalCenter10X	MBC	1285	()	2904	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295833	syn52320677	syn52320678			In progress
+GerminalCenter10xATAC_combined_Cluster7	GerminalCenter10X	Tcm CD4	370	()	1504	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295835	syn52320679	syn52320681			In progress
+GerminalCenter10xATAC_combined_Cluster8	GerminalCenter10X	Myeloid	251	()	1567	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295837	syn52320682	syn52320683			In progress
+GerminalCenter10xATAC_combined_Cluster9	GerminalCenter10X	Cth	421	()	3432	10X scATAC in tonsilar germinal center immune cells	10X snATAC	Human	syn52295840	syn52320686	syn52320687			In progress
+GM12878_10XMultiome_Cluster1	GM12878_10XMultiome	GM12878 10XMultiome	563	()	20189	GM12878 cell line	10x Multiome	Human	syn52263983	syn52320752	syn52320753			In progress
+igvf_b01_LeftCortex_Astrocyte	igvf_b01_LeftCortex	Astrocyte	11005	2387.645	NA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	Parse SplitSeq	Mouse					syn52283316	In progress
+igvf_b01_LeftCortex_Endothelial	igvf_b01_LeftCortex	Endothelial	1104	1965.31	NA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	Parse SplitSeq	Mouse					syn52283316	In progress
+igvf_b01_LeftCortex_Ependymal	igvf_b01_LeftCortex	Ependymal	189	4540.513	NA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	Parse SplitSeq	Mouse					syn52283316	In progress
+igvf_b01_LeftCortex_GABA	igvf_b01_LeftCortex	GABA	21582	8016.348	NA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	Parse SplitSeq	Mouse					syn52283316	In progress
+igvf_b01_LeftCortex_GLUT	igvf_b01_LeftCortex	GLUT	39481	10258.656	NA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	Parse SplitSeq	Mouse					syn52283316	In progress
+igvf_b01_LeftCortex_Microglia	igvf_b01_LeftCortex	Microglia	3452	1260.002	NA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	Parse SplitSeq	Mouse					syn52283316	In progress
+igvf_b01_LeftCortex_Oligodendrocyte	igvf_b01_LeftCortex	Oligodendrocyte	9662	1690.527	NA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	Parse SplitSeq	Mouse					syn52283316	In progress
+igvf_b01_LeftCortex_OPC	igvf_b01_LeftCortex	OPC	2788	3114.942	NA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	Parse SplitSeq	Mouse					syn52283316	In progress
+igvf_b01_LeftCortex_VLMC	igvf_b01_LeftCortex	VLMC	1584	1995.734	NA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	Parse SplitSeq	Mouse					syn52283316	In progress
+K562_10XMultiome_Xu2022_CellCluster0	K562_10XMultiome_Xu2022	K562	6388	15869.97	33802	K562 cell line	10x Multiome	Human	syn52334019	syn52358205	syn52358206			In progress
+Ma2020_BMMC_SingleDonor_CD4-positive	Ma2020_BMMC_SingleDonor	CD4-positive	23355	977.906615285806	613.109676728752	bone marrow mononuclear cells	SHARE-seq	Human		syn52280393	syn52280363		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_CD8-positive	Ma2020_BMMC_SingleDonor	CD8-positive	2671	960.849494571322	569.664545114189	bone marrow mononuclear cells	SHARE-seq	Human		syn52280394	syn52280362		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_common-myeloid-progenitor	Ma2020_BMMC_SingleDonor	common myeloid progenitor	1078	979.276437847866	620.951762523191	bone marrow mononuclear cells	SHARE-seq	Human		syn52280390	syn52280361		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_erythrocyte	Ma2020_BMMC_SingleDonor	erythrocyte	289	1012.69896193772	791.458477508651	bone marrow mononuclear cells	SHARE-seq	Human		syn52280389	syn52280360		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_erythroid-progenitor-cell	Ma2020_BMMC_SingleDonor	erythroid progenitor cell	7838	984.772773666752	655.032533809645	bone marrow mononuclear cells	SHARE-seq	Human		syn52280388	syn52280359		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_granulocyte	Ma2020_BMMC_SingleDonor	granulocyte	5920	965.463513513513	618.167736486486	bone marrow mononuclear cells	SHARE-seq	Human		syn52280387	syn52280358		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_hematopoietic-stem-cell	Ma2020_BMMC_SingleDonor	hematopoietic stem cell	3603	1000.95614765473	632.790729947266	bone marrow mononuclear cells	SHARE-seq	Human		syn52280386	syn52280357		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_macrophage	Ma2020_BMMC_SingleDonor	macrophage	9	802.555555555556	654.555555555556	bone marrow mononuclear cells	SHARE-seq	Human		syn52280383	syn52280356		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_mature-NK-T-cell	Ma2020_BMMC_SingleDonor	mature NK T cell	3568	956.072589686099	599.412976457399	bone marrow mononuclear cells	SHARE-seq	Human		syn52280382	syn52280355		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_memory-B-cell	Ma2020_BMMC_SingleDonor	memory B cell	4697	964.331488183947	623.033532041729	bone marrow mononuclear cells	SHARE-seq	Human		syn52280381	syn52280354		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_monocyte	Ma2020_BMMC_SingleDonor	monocyte	6408	970.131554307116	628.761001872659	bone marrow mononuclear cells	SHARE-seq	Human		syn52280377	syn52280353		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_naive-B-cell	Ma2020_BMMC_SingleDonor	naive B cell	4922	972.716781796018	606.215258025193	bone marrow mononuclear cells	SHARE-seq	Human		syn52280368	syn52280352		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_neutrophil	Ma2020_BMMC_SingleDonor	neutrophil	7105	972.076706544687	642.242997888811	bone marrow mononuclear cells	SHARE-seq	Human		syn52280365	syn52280351		syn52280400	In progress
+Ma2020_BMMC_SingleDonor_plasma-cell	Ma2020_BMMC_SingleDonor	plasma cell	988	936.976720647773	607.376012145749	bone marrow mononuclear cells	SHARE-seq	Human		syn52280364	syn52280350		syn52280400	In progress

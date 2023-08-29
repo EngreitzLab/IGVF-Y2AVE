@@ -1,0 +1,310 @@
+DatasetID	CellClusterID	ManualAnnotationLabel	Biosample	AnalysisNotes
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster0	pre-arterial and pre-venous endothelial cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster1	arterial endothelial cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster10	pre-primitive streak cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster11	pre-primitive streak cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster12	arterial and venous endothelial cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster2	mesoderm cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster3	arterial endothelial cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster4	venous endothelial cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster5	pre-venous endothelial cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster6	WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster7	non-venous endothelial cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster8	primitive streak cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+230601_iPSC_art_ven_EC_10Xmultiome	230601_iPSC_art_ven_EC_10xmultiome_Cluster9	pre-mesoderm cells differentiated from WTC11 hiPSC	WTC11 differentiated to arterial and venous endothelial cells	
+Bridge_Satpathy	Bridge_Satpathy_Astrocyte	Astrocyte	Brain cortex from 7 mice (Mortazavi)	
+Bridge_Satpathy	Bridge_Satpathy_GABA	GABA	Brain cortex from 7 mice (Mortazavi)	
+Bridge_Satpathy	Bridge_Satpathy_GLUT	GLUT	Brain cortex from 7 mice (Mortazavi)	
+Bridge_Satpathy	Bridge_Satpathy_Microglia	Microglia	Brain cortex from 7 mice (Mortazavi)	
+Bridge_Satpathy	Bridge_Satpathy_Oligodendrocyte	Oligodendrocyte	Brain cortex from 7 mice (Mortazavi)	
+Bridge_Satpathy	Bridge_Satpathy_OPC	OPC	Brain cortex from 7 mice (Mortazavi)	
+Bridge_Satpathy	Bridge_Satpathy_VLMC	VLMC	Brain cortex from 7 mice (Mortazavi)	
+CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster0	WTC11 hiPSC endothelial differentiation t2	WTC11 differentiation to endothelial cells (Engreitz)	
+CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster1	WTC11 hiPSC endothelial differentiation t3 state 1	WTC11 differentiation to endothelial cells (Engreitz)	
+CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster5	WTC11 hiPSC endothelial differentiation t3 state 1	WTC11 differentiation to endothelial cells (Engreitz)	
+CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster4	WTC11 hiPSC endothelial differentiation t3 state 2	WTC11 differentiation to endothelial cells (Engreitz)	
+CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster6	WTC11 hiPSC endothelial differentiation t3 state 2	WTC11 differentiation to endothelial cells (Engreitz)	
+CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster2	WTC11 hiPSC endothelial differentiation t4	WTC11 differentiation to endothelial cells (Engreitz)	
+CharacterizationMcGinnis_Dataset0	mcginnis_dataset0_cluster3	WTC11 hiPSC endothelial differentiation t5	WTC11 differentiation to endothelial cells (Engreitz)	
+CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster2	HAP1	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	
+CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster4	HL60	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	
+CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster6	HL60	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	
+CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster3	HUDEP2	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	
+CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster5	HUDEP2	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	
+CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster0	K562	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	
+CharacterizationMcGinnis_Dataset1	mcginnis_dataset1_cluster1	U20S	U2OS (Taipale), HAP1 (Starita), HL60 (Bauer), K562 (Shendure), HUDEP2 (Bauer)	
+CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster1	Jurkat	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	
+CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster3	Jurkat stimulated	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	
+CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster2	K562-CRISPRi	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	
+CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster0	teloHAEC-CRISPRi	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	
+CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster4	teloHAEC-CRISPRi	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	
+CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster7	teloHAEC-CRISPRi	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	
+CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster5	THP1	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	
+CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster6	THP1	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	
+CharacterizationMcGinnis_Dataset10	mcginnis_dataset10_cluster8	THP1	K562-CRISPRi, teloHAEC-CRISPRi, THP1, Jurkat +/- stimulation (Engreitz)	
+CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster1	teloHAEC +TNF 0hr	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	
+CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster5	teloHAEC +TNF 0hr	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	
+CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster6	teloHAEC +TNF 0hr	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	
+CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster0	teloHAEC +TNF 24hr	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	
+CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster4	teloHAEC +TNF 24hr	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	
+CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster2	teloHAEC +TNF 4hr	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	
+CharacterizationMcGinnis_Dataset2	mcginnis_dataset2_cluster3	teloHAEC +TNF 4hr	teloHAEC +/- TNFa for 0hr, 4hr, or 24hr (Lettre)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster3	H9 hESC cardiomyocyte differentiation t1 state 1	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster5	H9 hESC cardiomyocyte differentiation t1 state 2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster10	H9 hESC cardiomyocyte differentiation t1 state 2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster9	H9 hESC cardiomyocyte differentiation t1and2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster1	H9 hESC cardiomyocyte differentiation t2 state 1	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster8	H9 hESC cardiomyocyte differentiation t2 state 2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster16	H9 hESC cardiomyocyte differentiation t2 state 2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster13	H9 hESC cardiomyocyte differentiation t2 state 3	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster2	HEPG2 wandwithout serum	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	Recluster to separate +/- serum conditions
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster17	unknown 1	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster18	unknown 2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster0	WTC11 cardiomyocyte differentiation t1 state 1	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster11	WTC11 cardiomyocyte differentiation t1 state 2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster12	WTC11 cardiomyocyte differentiation t1 state 2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster4	WTC11 cardiomyocyte differentiation t2 state 1	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster7	WTC11 cardiomyocyte differentiation t2 state 2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster6	WTC11 cardiomyocyte differentiation t3 state 1	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster14	WTC11 cardiomyocyte differentiation t3 state 2	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset3	mcginnis_dataset3_cluster15	WTC11 cardiomyocyte differentiation t3 state 3	WTC11 cardio differentiation (Steinmetz), 3 timepoints, H9 cardio differentiation (Hon), 2 timepoints, HepG2 +/- serum starvation (Sherwood)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster1	WTC11 macrophage cholesterol state 1	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster5	WTC11 macrophage cholesterol state 2	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster8	WTC11 macrophage m0 state 1	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster2	WTC11 macrophage m0 state 2	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster13	WTC11 macrophage m0 m2	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster0	WTC11 macrophage m1	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster4	WTC11 macrophage m1	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster7	WTC11 macrophage m1	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster6	WTC11 macrophage m2	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster9	WTC11 macrophage m2	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster11	WTC11 macrophage m2	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster10	WTC11 macrophage mitotic	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster3	WTC11 macrophage precursor	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset4	mcginnis_dataset4_cluster12	WTC11 macrophage precursor	WTC11-derived macrophages, 5 conditions: unstimulated, ,M1, M2, cholesterol-loaded, precursor (Bassik)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster0	H1 gastruloid state 1	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster8	H1 gastruloid state 1	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster9	H1 gastruloid state 1	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster2	H1 gastruloid state 2	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster10	H1 gastruloid state 2	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster4	H1 neuron t1 t2 t3	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster15	H1 neuron t1 t2 t3	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster14	H1 neuron t2 t3	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster1	H9 neuron t1	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster3	H9 neuron t1	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster5	H9 neuron t1	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster16	H9 neuron t1	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster6	HEK293T	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster12	HEK293T	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster7	WTC11 NGN2 neuron	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster11	WTC11 NGN2 neuron	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset5	mcginnis_dataset5_cluster13	WTC11 NGN2 neuron	H1-derived gastruloids (Huangfu), WTC11-derived NGN2 neurons (Ahituv), H9-derived neurons (Hon), 3 timepoints, HEK293T (Fowler)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster10	H1 pancreas S1	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster8	H1 pancreas S3	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster19	H1 pancreas S3 S4	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster9	H1 pancreas S4 state 1	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster14	H1 pancreas S4 state 2	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster15	H1 pancreas S4 state 3	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster12	H1 pancreas S4 S5 S6	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster4	H1 pancreas S5	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster6	H1 pancreas S5	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster11	H1 pancreas S5	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster18	H1 pancreas S5	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster3	H1 pancreas S52D	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster7	H1 pancreas S52D3D	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster0	H1 pancreas S6 state 1	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster1	H1 pancreas S6 state 1	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster13	H1 pancreas S6 state 1	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster16	H1 pancreas S6 state 1	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster2	H1 pancreas S6 state 2	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster5	H1 pancreas S6 state 2	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster17	H1 pancreas S62D3D	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster20	minor	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster21	minor	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster22	minor	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster23	minor	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster24	minor	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset6	mcginnis_dataset6_cluster25	minor	H1 pancreatic differentiation, 7 timepoints (Huangfu)	
+CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster2	hCASM calcification d6 d10	hCASM, 5 conditions (Quertermous)	Subcluster to get Day 6 and Day 10 separately?
+CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster1	hCASM DMEM no serum	hCASM, 5 conditions (Quertermous)	
+CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster0	hCASM SMBM no serum	hCASM, 5 conditions (Quertermous)	
+CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster4	hCASM SMBM no serum	hCASM, 5 conditions (Quertermous)	
+CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster5	hCASM SMBM no serum	hCASM, 5 conditions (Quertermous)	
+CharacterizationMcGinnis_Dataset7_human	mcginnis_dataset7_human_cluster3	hCASM SMBM serum	hCASM, 5 conditions (Quertermous)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster4	WD44 gastruloid d10 d12	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster11	WD44 gastruloid d10 d12	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster0	WD44 gastruloid d4	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster6	WD44 gastruloid d4	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster7	WD44 gastruloid d4	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster2	WD44 gastruloid d4 d6 d8 d10 d12 state 1	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster5	WD44 gastruloid d4 d6 d8 d10 d12 state 2	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster9	WD44 gastruloid d4 d6 d8 d10 d12 state 2	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster12	WD44 gastruloid d4 d6 d8 d10 d12 state 2	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster1	WD44 gastruloid d6 d8	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster8	WD44 gastruloid d6 d8	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster3	WD44 gastruloid d8 d10 d12	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset7_mouse	mcginnis_dataset7_mouse_cluster10	WD44 gastruloid d8 d10 d12	WD44 gastruloid differentiation (Shendure)	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster13	B cell Day 0	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster9	B cell Day 1	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster4	B cell Day 2	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster1	B cell Day 2-6	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster10	B cell Day 2,3	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster0	B cell Day 3	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster12	B cell Day 3	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster2	B cell Day 3	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster6	B cell Day 3	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster11	B cell Day 3,5	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster3	B cell Day 5	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster7	B cell Day 5,6	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster5	B cell Day 6	Primary B-cell in vitro differentiation	
+CharacterizationMcGinnis_Dataset9	mcginnis_dataset9_cluster8	B cell Day 6	Primary B-cell in vitro differentiation	
+ENCODE_GM12878_10X_scATACseq	ENCODEGM12878_Cluster0	GM12878	GM12878 nuclear fraction	
+ENCODE_K562_10X_scATACseq	ENCODEK562_Cluster0	K562	K562 cell line nuclear fraction	
+ENCODE-Liver-10XMultiome	ENCSR618WVK_Cluster0	Cholangiocyte	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	
+ENCODE-Liver-10XMultiome	ENCSR618WVK_Cluster1	Endothelial cell	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	
+ENCODE-Liver-10XMultiome	ENCSR618WVK_Cluster2	Fibroblast	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	
+ENCODE-Liver-10XMultiome	ENCSR618WVK_Cluster3	Hepatocyte	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	
+ENCODE-Liver-10XMultiome	ENCSR618WVK_Cluster4	Macrophage	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	
+ENCODE-Liver-10XMultiome	ENCSR618WVK_Cluster5	T cell	Homo sapiens left lobe of liver tissue nuclear fraction male adult (45 years)	
+ENCSR023FME	ENCSR023FME_Cluster3	Basal epithelial cell	Homo sapiens gastrocnemius medialis tissue female adult (51 years)	
+ENCSR023FME	ENCSR023FME_Cluster4	Endothelial cell	Homo sapiens gastrocnemius medialis tissue female adult (51 years)	
+ENCSR023FME	ENCSR023FME_Cluster2	Fibroblast	Homo sapiens gastrocnemius medialis tissue female adult (51 years)	
+ENCSR023FME	ENCSR023FME_Cluster1	Type I skeletal myocyte	Homo sapiens gastrocnemius medialis tissue female adult (51 years)	
+ENCSR052DKH	ENCSR052DKH_Cluster2	Macrophage	Homo sapiens Peyer's patch tissue female adult (51 years)	
+ENCSR052DKH	ENCSR052DKH_Cluster3	T lymphocyte	Homo sapiens Peyer's patch tissue female adult (51 years)	
+ENCSR052DKH	ENCSR052DKH_Cluster1	Tuft cell	Homo sapiens Peyer's patch tissue female adult (51 years)	
+ENCSR052DKH	ENCSR052DKH_Cluster4	Vascular smooth muscle cell	Homo sapiens Peyer's patch tissue female adult (51 years)	
+ENCSR181XXQ	ENCSR181XXQ_Cluster1	Adipocyte	Homo sapiens omental fat pad tissue female adult (51 years)	
+ENCSR181XXQ	ENCSR181XXQ_Cluster3	Endothelial cell	Homo sapiens omental fat pad tissue female adult (51 years)	
+ENCSR181XXQ	ENCSR181XXQ_Cluster4	Mesothelial cell	Homo sapiens omental fat pad tissue female adult (51 years)	
+ENCSR181XXQ	ENCSR181XXQ_Cluster2	Vascular smooth muscle cell	Homo sapiens omental fat pad tissue female adult (51 years)	
+ENCSR205TUH	ENCSR205TUH_Cluster2	Schwann cell	Homo sapiens tibial nerve tissue female adult (51 years)	
+ENCSR205TUH	ENCSR205TUH_Cluster1	Vascular smooth muscle cell	Homo sapiens tibial nerve tissue female adult (51 years)	
+ENCSR261TQO	ENCSR261TQO_Cluster6	Acinar cell	Homo sapiens body of pancreas tissue female adult (51 years)	
+ENCSR261TQO	ENCSR261TQO_Cluster3	Ductal cell	Homo sapiens body of pancreas tissue female adult (51 years)	
+ENCSR261TQO	ENCSR261TQO_Cluster1	Endothelial cell	Homo sapiens body of pancreas tissue female adult (51 years)	
+ENCSR261TQO	ENCSR261TQO_Cluster2	Enteroendocrine cell	Homo sapiens body of pancreas tissue female adult (51 years)	
+ENCSR261TQO	ENCSR261TQO_Cluster5	Macrophage	Homo sapiens body of pancreas tissue female adult (51 years)	
+ENCSR261TQO	ENCSR261TQO_Cluster4	T lymphocyte	Homo sapiens body of pancreas tissue female adult (51 years)	
+ENCSR302CMX	ENCSR302CMX_Cluster4	Endothelial cell	Homo sapiens tibial artery tissue male adult (54 years)	
+ENCSR302CMX	ENCSR302CMX_Cluster1	Fibroblast	Homo sapiens tibial artery tissue male adult (54 years)	
+ENCSR302CMX	ENCSR302CMX_Cluster3	Smooth muscle cell	Homo sapiens tibial artery tissue male adult (54 years)	
+ENCSR302CMX	ENCSR302CMX_Cluster2	Vascular smooth muscle cell	Homo sapiens tibial artery tissue male adult (54 years)	
+ENCSR367GKP	ENCSR367GKP_Cluster1	Fibroblast	Homo sapiens sigmoid colon tissue male adult (37 years)	
+ENCSR367GKP	ENCSR367GKP_Cluster5	Macrophage	Homo sapiens sigmoid colon tissue male adult (37 years)	
+ENCSR367GKP	ENCSR367GKP_Cluster2	Schwann cell	Homo sapiens sigmoid colon tissue male adult (37 years)	
+ENCSR367GKP	ENCSR367GKP_Cluster3	Smooth muscle cell	Homo sapiens sigmoid colon tissue male adult (37 years)	
+ENCSR367GKP	ENCSR367GKP_Cluster4	Vascular smooth muscle cell	Homo sapiens sigmoid colon tissue male adult (37 years)	
+ENCSR397LYX	ENCSR397LYX_Cluster3	Basal epithelial cell	Homo sapiens suprapubic skin tissue female adult (51 years)	
+ENCSR397LYX	ENCSR397LYX_Cluster2	Endothelial cell	Homo sapiens suprapubic skin tissue female adult (51 years)	
+ENCSR397LYX	ENCSR397LYX_Cluster1	Vascular smooth muscle cell	Homo sapiens suprapubic skin tissue female adult (51 years)	
+ENCSR411MLR	ENCSR411MLR_Cluster4	Endothelial cell	Homo sapiens ascending aorta tissue female adult (51 years)	
+ENCSR411MLR	ENCSR411MLR_Cluster1	Macrophage	Homo sapiens ascending aorta tissue female adult (51 years)	
+ENCSR411MLR	ENCSR411MLR_Cluster2	T lymphocyte	Homo sapiens ascending aorta tissue female adult (51 years)	
+ENCSR411MLR	ENCSR411MLR_Cluster3	Vascular smooth muscle cell.1	Homo sapiens ascending aorta tissue female adult (51 years)	
+ENCSR411MLR	ENCSR411MLR_Cluster5	Vascular smooth muscle cell.2	Homo sapiens ascending aorta tissue female adult (51 years)	
+ENCSR453TVZ	ENCSR453TVZ_Cluster1	Basal epithelial cell.1	Homo sapiens esophagus squamous epithelium tissue female adult (51 years)	
+ENCSR453TVZ	ENCSR453TVZ_Cluster2	Basal epithelial cell.2	Homo sapiens esophagus squamous epithelium tissue female adult (51 years)	
+ENCSR453TVZ	ENCSR453TVZ_Cluster3	Basal epithelial cell.3	Homo sapiens esophagus squamous epithelium tissue female adult (51 years)	
+ENCSR453TVZ	ENCSR453TVZ_Cluster4	T lymphocyte	Homo sapiens esophagus squamous epithelium tissue female adult (51 years)	
+ENCSR455CVZ	ENCSR455CVZ_Cluster1	Endothelial cell	Homo sapiens uterus tissue female adult (51 years)	
+ENCSR455CVZ	ENCSR455CVZ_Cluster2	Vascular smooth muscle cell	Homo sapiens uterus tissue female adult (51 years)	
+ENCSR474TGL	ENCSR474TGL_Cluster3	Basal epithelial cell	Homo sapiens lower leg skin tissue female adult (51 years)	
+ENCSR474TGL	ENCSR474TGL_Cluster1	Endothelial cell	Homo sapiens lower leg skin tissue female adult (51 years)	
+ENCSR474TGL	ENCSR474TGL_Cluster2	Fibroblast	Homo sapiens lower leg skin tissue female adult (51 years)	
+ENCSR474TGL	ENCSR474TGL_Cluster4	Macrophage	Homo sapiens lower leg skin tissue female adult (51 years)	
+ENCSR506YMX	ENCSR506YMX_Cluster4	Goblet cell	Homo sapiens transverse colon tissue female adult (51 years)	
+ENCSR506YMX	ENCSR506YMX_Cluster1	Luminal epithelial cell	Homo sapiens transverse colon tissue female adult (51 years)	
+ENCSR506YMX	ENCSR506YMX_Cluster5	T lymphocyte	Homo sapiens transverse colon tissue female adult (51 years)	
+ENCSR506YMX	ENCSR506YMX_Cluster3	Tuft cell	Homo sapiens transverse colon tissue female adult (51 years)	
+ENCSR506YMX	ENCSR506YMX_Cluster2	Vascular smooth muscle cell	Homo sapiens transverse colon tissue female adult (51 years)	
+ENCSR538FPK	ENCSR538FPK_Cluster6	Cardiomyocyte	Homo sapiens heart left ventricle tissue female adult (51 years)	
+ENCSR538FPK	ENCSR538FPK_Cluster2	Endothelial cell	Homo sapiens heart left ventricle tissue female adult (51 years)	
+ENCSR538FPK	ENCSR538FPK_Cluster1	Fibroblast	Homo sapiens heart left ventricle tissue female adult (51 years)	
+ENCSR538FPK	ENCSR538FPK_Cluster5	Macrophage	Homo sapiens heart left ventricle tissue female adult (51 years)	
+ENCSR538FPK	ENCSR538FPK_Cluster4	Smooth muscle cell	Homo sapiens heart left ventricle tissue female adult (51 years)	
+ENCSR538FPK	ENCSR538FPK_Cluster3	T lymphocyte	Homo sapiens heart left ventricle tissue female adult (51 years)	
+ENCSR660NEE	ENCSR660NEE_Cluster5	Endothelial cell	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	
+ENCSR660NEE	ENCSR660NEE_Cluster1	Fibroblast	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	
+ENCSR660NEE	ENCSR660NEE_Cluster6	Macrophage	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	
+ENCSR660NEE	ENCSR660NEE_Cluster3	Mast cell	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	
+ENCSR660NEE	ENCSR660NEE_Cluster4	Schwann cell	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	
+ENCSR660NEE	ENCSR660NEE_Cluster8	Smooth muscle cell	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	
+ENCSR660NEE	ENCSR660NEE_Cluster7	T lymphocyte	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	
+ENCSR660NEE	ENCSR660NEE_Cluster2	Vascular smooth muscle cell	Homo sapiens esophagus muscularis mucosa tissue female adult (51 years)	
+ENCSR718WGE	ENCSR718WGE_Cluster3	Endothelial cell	Homo sapiens upper lobe of left lung tissue female adult (51 years)	
+ENCSR718WGE	ENCSR718WGE_Cluster2	Macrophage	Homo sapiens upper lobe of left lung tissue female adult (51 years)	
+ENCSR718WGE	ENCSR718WGE_Cluster4	T lymphocyte	Homo sapiens upper lobe of left lung tissue female adult (51 years)	
+ENCSR718WGE	ENCSR718WGE_Cluster1	Type II pneumocyte	Homo sapiens upper lobe of left lung tissue female adult (51 years)	
+ENCSR776EOI	ENCSR776EOI_Cluster3	Cardiomyocyte	Homo sapiens right atrium auricular region tissue female adult (51 years)	
+ENCSR776EOI	ENCSR776EOI_Cluster1	Fibroblast	Homo sapiens right atrium auricular region tissue female adult (51 years)	
+ENCSR776EOI	ENCSR776EOI_Cluster2	Macrophage	Homo sapiens right atrium auricular region tissue female adult (51 years)	
+ENCSR776EOI	ENCSR776EOI_Cluster4	Mesothelial cell	Homo sapiens right atrium auricular region tissue female adult (51 years)	
+ENCSR796RXX	ENCSR796RXX_Cluster3	Endothelial cell	Homo sapiens thyroid gland tissue female adult (51 years)	
+ENCSR796RXX	ENCSR796RXX_Cluster2	Fibroblast	Homo sapiens thyroid gland tissue female adult (51 years)	
+ENCSR796RXX	ENCSR796RXX_Cluster1	Follicular cell	Homo sapiens thyroid gland tissue female adult (51 years)	
+ENCSR822GXQ	ENCSR822GXQ_Cluster5	Basal epithelial cell	Homo sapiens thoracic aorta tissue male adult (54 years)	
+ENCSR822GXQ	ENCSR822GXQ_Cluster1	Endothelial cell	Homo sapiens thoracic aorta tissue male adult (54 years)	
+ENCSR822GXQ	ENCSR822GXQ_Cluster6	Fibroblast	Homo sapiens thoracic aorta tissue male adult (54 years)	
+ENCSR822GXQ	ENCSR822GXQ_Cluster3	Macrophage	Homo sapiens thoracic aorta tissue male adult (54 years)	
+ENCSR822GXQ	ENCSR822GXQ_Cluster2	T lymphocyte	Homo sapiens thoracic aorta tissue male adult (54 years)	
+ENCSR822GXQ	ENCSR822GXQ_Cluster4	Vascular smooth muscle cell	Homo sapiens thoracic aorta tissue male adult (54 years)	
+ENCSR845QFX	ENCSR845QFX_Cluster1	Endothelial cell	Homo sapiens breast epithelium tissue female adult (51 years)	
+ENCSR845QFX	ENCSR845QFX_Cluster5	Fibroblast	Homo sapiens breast epithelium tissue female adult (51 years)	
+ENCSR845QFX	ENCSR845QFX_Cluster2	Luminal epithelial cell.1	Homo sapiens breast epithelium tissue female adult (51 years)	
+ENCSR845QFX	ENCSR845QFX_Cluster3	Luminal epithelial cell.2	Homo sapiens breast epithelium tissue female adult (51 years)	
+ENCSR845QFX	ENCSR845QFX_Cluster4	Luminal epithelial cell.3	Homo sapiens breast epithelium tissue female adult (51 years)	
+ENCSR845QFX	ENCSR845QFX_Cluster6	Vascular smooth muscle cell	Homo sapiens breast epithelium tissue female adult (51 years)	
+ENCSR848EID	ENCSR848EID_Cluster5	Fibroblast	Homo sapiens stomach tissue female adult (51 years)	
+ENCSR848EID	ENCSR848EID_Cluster1	Gastric chief cell	Homo sapiens stomach tissue female adult (51 years)	
+ENCSR848EID	ENCSR848EID_Cluster3	Luminal epithelial cell	Homo sapiens stomach tissue female adult (51 years)	
+ENCSR848EID	ENCSR848EID_Cluster2	Macrophage	Homo sapiens stomach tissue female adult (51 years)	
+ENCSR848EID	ENCSR848EID_Cluster4	T lymphocyte	Homo sapiens stomach tissue female adult (51 years)	
+ENCSR868ZEI	ENCSR868ZEI_Cluster5	Endothelial cell	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	
+ENCSR868ZEI	ENCSR868ZEI_Cluster8	Fibroblast	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	
+ENCSR868ZEI	ENCSR868ZEI_Cluster3	Macrophage	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	
+ENCSR868ZEI	ENCSR868ZEI_Cluster1	Mast cell	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	
+ENCSR868ZEI	ENCSR868ZEI_Cluster7	Myofibroblast	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	
+ENCSR868ZEI	ENCSR868ZEI_Cluster6	Schwann cell	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	
+ENCSR868ZEI	ENCSR868ZEI_Cluster9	Smooth muscle cell	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	
+ENCSR868ZEI	ENCSR868ZEI_Cluster2	T lymphocyte	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	
+ENCSR868ZEI	ENCSR868ZEI_Cluster4	Vascular smooth muscle cell	Homo sapiens gastroesophageal sphincter tissue male adult (54 years)	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster3	Activated B	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster9	Cth	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster4	Dendritic	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster2	DZ GC	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster11	LZ GC	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster6	MBC	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster8	Myeloid	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster13	Naive B	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster12	Naive T	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster5	Plasmablasts	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster7	Tcm CD4	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster1	Tcm CD8	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster14	Tfh	10X scATAC in tonsilar germinal center immune cells	
+GerminalCenter10X	GerminalCenter10xATAC_combined_Cluster10	Treg	10X scATAC in tonsilar germinal center immune cells	
+GM12878_10XMultiome	GM12878_10XMultiome_Cluster1	GM12878 10XMultiome	GM12878 cell line	
+igvf_b01_LeftCortex	igvf_b01_LeftCortex_Astrocyte	Astrocyte	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	
+igvf_b01_LeftCortex	igvf_b01_LeftCortex_Endothelial	Endothelial	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	
+igvf_b01_LeftCortex	igvf_b01_LeftCortex_Ependymal	Ependymal	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	
+igvf_b01_LeftCortex	igvf_b01_LeftCortex_GABA	GABA	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	
+igvf_b01_LeftCortex	igvf_b01_LeftCortex_GLUT	GLUT	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	
+igvf_b01_LeftCortex	igvf_b01_LeftCortex_Microglia	Microglia	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	
+igvf_b01_LeftCortex	igvf_b01_LeftCortex_Oligodendrocyte	Oligodendrocyte	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	
+igvf_b01_LeftCortex	igvf_b01_LeftCortex_OPC	OPC	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	
+igvf_b01_LeftCortex	igvf_b01_LeftCortex_VLMC	VLMC	10 week old C57Bl/6 and Castaneus left cerebral cortex samples	
+K562_10XMultiome_Xu2022	K562_10XMultiome_Xu2022_CellCluster0	K562	K562 cell line	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_CD4-positive	CD4-positive	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_CD8-positive	CD8-positive	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_common-myeloid-progenitor	common myeloid progenitor	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_erythrocyte	erythrocyte	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_erythroid-progenitor-cell	erythroid progenitor cell	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_granulocyte	granulocyte	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_hematopoietic-stem-cell	hematopoietic stem cell	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_macrophage	macrophage	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_mature-NK-T-cell	mature NK T cell	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_memory-B-cell	memory B cell	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_monocyte	monocyte	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_naive-B-cell	naive B cell	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_neutrophil	neutrophil	bone marrow mononuclear cells	
+Ma2020_BMMC_SingleDonor	Ma2020_BMMC_SingleDonor_plasma-cell	plasma cell	bone marrow mononuclear cells	
